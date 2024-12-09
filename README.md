@@ -1,4 +1,4 @@
-# Dirty Slang and Dictionary
+# Dirty Slang and Kink Dictionary
 
 
 
