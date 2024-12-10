@@ -1,64 +1,455 @@
 {
-    "dictionary": [
-        {
-            "term": "Haematomania/Hematolagnia",
-            "definition": "A fetish for blood."
-        },
-        {
-            "term": "Hag Fag",
-            "definition": "A gay man who prefers to be in the company of straight women."
-        },
-        {
-            "term": "Half & Half",
-            "definition": "An encounter with a prostitute that incorporates both oral sex and intercourse."
-        },
-        {
-            "term": "Hamartophilia",
-            "definition": "A fetish for committing sins, as defined by your religious upbringing. Synonyms: pecattiphilia."
-        },
-        {
-            "term": "Hand Job, HJ",
-            "definition": "1. Using one's hands to bring a partner to orgasm. Usually refers to stroking a penis. 2. Masturbation."
-        },
-        {
-            "term": "Harem",
-            "definition": "A group of women or men a powerful person keeps at his disposal to service his sexual needs on demand."
-        },
-        {
-            "term": "Hematolagnia",
-            "definition": "A fetish for using or drinking blood in a sexual manner."
-        },
-        {
-            "term": "Hooker",
-            "definition": "A street walker."
-        },
-        {
-            "term": "Horny",
-            "definition": "Sexually aroused. Synonyms: bulging, dripping, estrus, frisky, fuckish, gamy, hot, hot and bothered."
-        },
-        {
-            "term": "Houdini",
-            "definition": "An absurd sex act in which the magician starts out penetrating his partner from behind. He then secretly allows an accomplice to take his place without the bottom partner realizing it."
-        },
-        {
-            "term": "Hourglass Figure",
-            "definition": "A woman whose bust measurement is nearly identical to her hip measurement, with a substantially smaller waist. Ex. 36-24-36."
-        },
-        {
-            "term": "Humiliation",
-            "definition": "A type of fetish play in which the submissive partner is made to feel ashamed or degraded."
-        },
-        {
-            "term": "Hung / Hung like a Horse",
-            "definition": "Having a penis large enough to belong to a beast of burden."
-        },
-        {
-            "term": "Hypersexual",
-            "definition": "A person with an hyperactive sex drive."
-        },
-        {
-            "term": "Hyphephilia",
-            "definition": "A fetish for touching skin, hair, leather, fur, or fabric. Similar to doraphilia."
-        }
+  "DirtyDictionary": {
+    "H": [
+      {
+      "term": "Haematomania/Hematolagnia",
+      "definition": "A fetish for blood."
+    },
+    {
+      "term": "Hag Fag",
+      "definition": "A gay man who prefers to be in the company of straight women."
+    },
+    {
+      "term": "Half & Half",
+      "definition": "An encounter with a prostitute that incorporates both oral sex and intercourse."
+    },
+    {
+      "term": "Ham and Cheese Sandwich",
+      "definition": "When a man ejaculates on or in a woman’s vagina, then licks up his mess."
+    },
+    {
+      "term": "Hamartophilia",
+      "definition": "A fetish for committing sins, as defined by your religious upbringing.",
+      "synonyms": ["pecattiphilia"]
+    },
+    {
+      "term": "Hand Job, HJ",
+      "definitions": [
+        "Using one's hands to bring a partner to orgasm. Usually refers to stroking a penis.",
+        "Masturbation."
+      ],
+      "synonyms": [
+        "DJ diddles",
+        "hand relief",
+        "an old fashion",
+        "tug job",
+        "taking the H train to J town"
+      ]
+    },
+    {
+      "term": "Handlebars",
+      "definition": "Pigtails that can be gripped for support during fellatio or sex."
+    },
+    {
+      "term": "Hand to Gland Combat",
+      "definition": "Vigorous masturbation in which a man wrestles with his dick."
+    },
+    {
+      "term": "Hand Relief",
+      "definitions": [
+        "Hand job.",
+        "Masturbation."
+      ]
+    },
+    {
+      "term": "Hanger Model",
+      "definition": "A waif thin fashion model, whose body is desexualized in order to emphasize the clothes she is modeling as opposed to her feminine sexuality."
+    },
+    {
+      "term": "Happy Ending",
+      "definitions": [
+        "For women, this refers to a romance story that ends in marriage or a monogamous relationship.",
+        "For men, this refers to a massage that ends with a hand job."
+      ]
+    },
+    {
+      "term": "Happy Shopper",
+      "definition": "A bisexual."
+    },
+    {
+      "term": "Happy Trail",
+      "definition": "Pubic hair that extends from the belly button to the main mound of pubic hair.",
+      "synonyms": ["Amazon trail", "Oregon trail"]
+    },
+    {
+      "term": "Haptephilia",
+      "definition": "A fetish for being touched."
+    },
+    {
+      "term": "Hard-On",
+      "definition": "Erection."
+    },
+    {
+      "term": "Hardwood Floors",
+      "definition": "Shaved genitalia."
+    },
+    {
+      "term": "Hard Swap",
+      "definition": "When each member of an open relationship is free to have sex with others without their partner being present."
+    },
+    {
+      "term": "Harem",
+      "definition": "A group of women or men a powerful person keeps at his disposal to service his sexual needs on demand."
+    },
+    {
+      "term": "Harmatophilia",
+      "definition": "A fetish for mistakes or rule breaking, especially in terms of sex."
+    },
+    {
+      "term": "Harpaxophilia",
+      "definition": "A fetish for being robbed.",
+      "similar_to": ["chrematistophilia"]
+    },
+    {
+      "term": "Harvard Style",
+      "definition": "The act of a man using another man’s lubricated thighs as a masturbatory aide."
+    },
+    {
+      "term": "Hasbian",
+      "definition": "A woman who used to identify as a lesbian."
+    },
+    {
+      "term": "Hat Trick",
+      "definitions": [
+        "Ejaculating three times during sex.",
+        "Having sex with three different partners on the same day."
+      ]
+    },
+    {
+      "term": "Head",
+      "definition": "Oral sex."
+    },
+    {
+      "term": "He-Blow",
+      "definition": "A gay, Jewish man."
+    },
+    {
+      "term": "Hedonist",
+      "definition": "One devoted to the pursuit of pleasure.",
+      "synonyms": ["apolaustic", "sensualist", "sybarite"]
+    },
+    {
+      "term": "Heeldo",
+      "definition": "A dildo that straps onto a heel.",
+      "notes": "See heeldo.com."
+    },
+    {
+      "term": "Hedgehogging",
+      "definition": "An absurd sex act in which a woman stuffs a hedgehog into her vagina. Just as practical as the urban myth of 'gerbiling.'",
+      "origins": "Dan Savage."
+    },
+    {
+      "term": "Heifer",
+      "definition": "A large, strong woman."
+    },
+    {
+      "term": "Heisman",
+      "definition": "When a player in college emotionally stiff-arms a fuckbuddy to keep her from wrapping him up in a relationship. To keep a sex partner at an emotional distance."
+    },
+    {
+      "term": "Helicopter",
+      "definition": "Spinning a semi-erect dick around."
+    },
+    {
+      "term": "Hentai",
+      "definition": "Any illustrated work such as Japanimation, anime, or manga, that contains sexually arousing or explicit content."
+    },
+    {
+      "term": "Hematolagnia",
+      "definition": "A fetish for using or drinking blood in a sexual manner."
+    },
+    {
+      "term": "Hermaphrodite",
+      "definition": "A person who was born with both male and female genitalia.",
+      "origins": "The Greek god of love, Aphrodite, and the god of war, Hermes, had the child Hermaphroditus. This male was then joined with a nymph who wished the two would never be separated."
+    },
+    {
+      "term": "Hershey Highway",
+      "definition": "A spurt of diarrhea that occurs during anal sex. Enduring such an episode is referred to as, 'Traveling the Hershey Highway.'"
+    },
+    {
+      "term": "Hessian",
+      "definition": "Gigolo.",
+      "synonyms": ["chicken", "hustler", "prick pusher/peddler"],
+      "origins": "From the men hired by the British to fight in their place during the American revolution."
+    },
+    {
+      "term": "Heterosexual",
+      "definition": "People who are sexually attracted to the opposite sex."
+    },
+    {
+      "term": "Heteroflexible",
+      "definition": "A man who prefers women but who will have sex with men if the opportunity presents itself."
+    },
+    {
+      "term": "Hiber-Dating",
+      "definition": "When a person loses contact with his friends and family for several months, or years, because he is spending all of his free time with a new lover."
+    },
+    {
+      "term": "Hierophilia",
+      "definition": "A fetish for sacred or religious objects."
+    },
+    {
+      "term": "High Dive",
+      "definition": "When a man pulls out during penetration, then rams his dick back into his partner. Generally considered a dick move."
+    },
+    {
+      "term": "High Maintenance",
+      "definition": "A person who requires an excessive amount of attention and emotional investment."
+    },
+    {
+      "term": "Hiking the Appalachian Trail",
+      "definition": "Slipping away to a secret vacation with a mistress.",
+      "origins": "Coined by then Governor of South Carolina, Mark Sanford, as his cover story for taking his mistress on a romantic getaway."
+    },
+    {
+      "term": "Himbo",
+      "definition": "A male bimbo.",
+      "synonyms": ["bimboy", "mimbo"]
+    },
+    {
+      "term": "Hinged Heels",
+      "definition": "Metaphorical shoes worn by a promiscuous woman, allowing her to drop on her back at a moment’s notice in order to facilitate a random sexual encounter."
+    },
+    {
+      "term": "Hiroshima",
+      "definition": "An absurd sex act in which a woman lies on her back and uses her legs to suspend her male sex partner in the air above her. While pretending he is a plane, the man drops his load on the woman."
+    },
+    {
+      "term": "Hirsutophilia",
+      "definition": "A fetish for body hair."
+    },
+    {
+      "term": "Ho, Hoe",
+      "definition": "A promiscuous woman or prostitute."
+    },
+    {
+      "term": "Hobosexual",
+      "definition": "A preference for poor or dirty sex partners. This occurs for any number of reasons: to gain access to more physically attractive partners, for the thrill of doing something wrong, or because of the perception that dirtier sex partners will be game for freakier sex acts."
+    },
+    {
+      "term": "Hodophilia",
+      "definition": "A fetish for travel."
+    },
+    {
+      "term": "Hog Hunting, Hogging",
+      "definition": "Seeking out large sexual partners.",
+      "synonyms": ["chubby chasing", "pig sticking", "whaling"]
+    },
+    {
+      "term": "Hole in One",
+      "definition": "When a man puts his dick in his own asshole."
+    },
+    {
+      "term": "Holy Week",
+      "definition": "When a woman abstains from sex for a week because she is menstruating."
+    },
+    {
+      "term": "Home Wrecker",
+      "definition": "A woman who seemingly goes after married men with little concern for the impact it will have on his marriage."
+    },
+    {
+      "term": "Homilophilia",
+      "definition": "A fetish for listening to or delivering speeches or sermons. Some believe Hitler had this fetish."
+    },
+    {
+      "term": "Honey in the Hips",
+      "definition": "A lady's man. A smooth operator when it comes to seduction and sex."
+    },
+    {
+      "term": "Hogging",
+      "definition": "Hunting for large women to have sex with.",
+      "synonym": "whaling"
+    },
+    {
+      "term": "Hog Hound",
+      "definition": "A person who regularly seeks out fat sex partners.",
+      "synonym": "whaler"
+    },
+    {
+      "term": "Homo",
+      "definition": "A homosexual."
+    },
+    {
+      "term": "Homoblivious",
+      "definition": "An inability to distinguish heterosexuals and homosexuals."
+    },
+    {
+      "term": "Homosexuality",
+      "definition": "\"God's way of insuring that the truly gifted aren't burdened with children.”—Sam Austin."
+    },
+    {
+      "term": "Honeymoon Phase",
+      "definition": "The initial phase in a relationship in which a couple is at the apex of their romantic affections. This period is characterized by overt displays of affection in public and the feeling that you would never want to be without the other person. This phase often ends when the couple gets married, has children, or when their finances become intertwined."
+    },
+    {
+      "term": "Hood Ornament",
+      "definition": "A clitoral hood piercing."
+    },
+    {
+      "term": "Hooker",
+      "definition": "A street walker.",
+      "origins": "The nickname of the prostitutes who followed around General 'Fighting Joe' Hooker and his troops during the Civil War."
+    },
+    {
+      "term": "Hoover",
+      "definition": "Someone who performs oral sex with the veracity with which a Hoover vacuum cleans a rug.",
+      "synonyms": ["mighty mouth"]
+    },
+    {
+      "term": "Hooze Bag, Hoozie",
+      "definition": "A promiscuous woman."
+    },
+    {
+      "term": "Horizontal Mambo/Tango",
+      "definition": "Sex. Often refers to sex with a Latin lover or a partner who has a good sense of rhythm."
+    },
+    {
+      "term": "Horny",
+      "definition": "Sexually aroused.",
+      "synonyms": [
+        "bulging",
+        "dripping",
+        "estrus",
+        "frisky",
+        "fuckish",
+        "gamy",
+        "hot",
+        "hot and bothered",
+        "in heat/the mood/season",
+        "itchy pants",
+        "juicy",
+        "moist",
+        "randy",
+        "wet"
+      ]
+    },
+    {
+      "term": "Horse and Carriage",
+      "definition": "Dick and balls. So named as the dick is the driving force delivering the balls' cargo."
+    },
+    {
+      "term": "Hot",
+      "definition": "Sexy."
+    },
+    {
+      "term": "Hot Dog in/down a Hallway",
+      "definition": "When either a vagina is excessively large, or a dick is excessively small, making sex comparable to tossing a hot dog down a hallway."
+    },
+    {
+      "term": "Hot Lunch/Karl",
+      "definition": "An absurd sex act in which one partner defecates on the other’s chest."
+    },
+    {
+      "term": "Hot Pocket",
+      "definition": "When one defecates on a sleeper sofa, then folds the mattress back into the couch, leaving the turd to bake until its aroma fills the entire house."
+    },
+    {
+      "term": "Hot Sauce Surprise",
+      "definition": "When a phallus is covertly coated in hot sauce before penetrating an unsuspecting orifice."
+    },
+    {
+      "term": "Houdini",
+      "definition": "An absurd sex act in which the magician starts out penetrating his partner from behind. He then secretly allows an accomplice to take his place without the bottom partner realizing it. The magician then positions himself in the bottom partner’s field of vision and yells, 'Tada!'"
+    },
+    {
+      "term": "Hourglass Figure",
+      "definition": "A woman whose bust measurement is nearly identical to her hip measurement, with a substantially smaller waist. Ex. 36-24-36."
+    },
+    {
+      "term": "Howdy",
+      "definition": "An abbreviation of, 'How did he get her?' Refers to a man who dates a woman above his league."
+    },
+    {
+      "term": "Humiliation",
+      "definition": "A type of fetish play in which the submissive partner is made to feel ashamed or degraded. Can involve anything from penis humiliation to public humiliation.",
+      "synonyms": ["degradation"]
+    },
+    {
+      "term": "Hummer",
+      "definition": "Fellatio."
+    },
+    {
+      "term": "Hump",
+      "definition": "Sex."
+    },
+    {
+      "term": "Hump ‘em and Dump ‘em",
+      "definition": "The policy of a serial fucker."
+    },
+    {
+      "term": "Hump the Dump",
+      "definition": "Dirty anal sex."
+    },
+    {
+      "term": "Hung / Hung like a Horse",
+      "definition": "Having a penis large enough to belong to a beast of burden.",
+      "synonyms": ["donkey rigged", "timbered", "well hung"]
+    },
+    {
+      "term": "Hung like a Hamster",
+      "definition": "A small penis."
+    },
+    {
+      "term": "Hung like a Zebra",
+      "definition": "The penis of a mulatto man who is half white and black."
+    },
+    {
+      "term": "Husband",
+      "definition": "A man who marries a woman in order to maintain exclusive mating privileges with her.",
+      "synonyms": ["ball and chain", "hubby", "old man..."]
+    },
+    {
+      "term": "Hustler",
+      "definitions": [
+        "A male prostitute.",
+        "Anyone who metaphorically whores themselves out. Meant as a compliment for those who do what they must to make their way in a difficult situation."
+      ],
+      "synonyms": ["gigolo", "hessian", "prick peddler/pusher"]
+    },
+    {
+      "term": "HWP",
+      "definition": "“Height, weight proportionate.” Used in personal ads when listing your weight makes you sound fat."
+    },
+    {
+      "term": "Hybristophilia",
+      "definition": "A fetish for crime and criminals, especially those criminals who gain public attention. Every serial killer is flooded with love letters and marriage proposals from people with this fetish.",
+      "similar_to": ["phygephilia"]
+    },
+    {
+      "term": "Hygrophilia",
+      "definition": "A fetish for body fluids, such as semen, tears, saliva, or sweat."
+    },
+    {
+      "term": "Hymen",
+      "definition": "The membrane that occludes the vagina. While the hymen can be ruptured for the first time during sex, it can also be broken a number of other ways, such as exercise, injury, or tampon use."
+    },
+    {
+      "term": "Hyper Fetish",
+      "definition": "A fetish for having a specific body part that is absurdly large.",
+      "variations": [
+        "hyper breasts",
+        "hyper muscles",
+        "hyper testicles",
+        "hyper ass",
+        "hyper penis"
+      ],
+      "notes": "Of these, the most common are muscle, penis, and breast. This kink is often depicted in animated, hentai porn. However, these fantasies can come to life with body building, implants, and saline injections."
+    },
+    {
+      "term": "Hypersexual",
+      "definition": "A person with an hyperactive sex drive."
+    },
+    {
+      "term": "Hyphephilia",
+      "definition": "A fetish for touching skin, hair, leather, fur, or fabric.",
+      "similar_to": ["doraphilia"]
+    },
+    {
+      "term": "Hypoxphilia",
+      "definition": "A fetish for being suffocated.",
+      "synonyms": ["asphyxiophilia"]
+      }
     ]
+  }
 }
