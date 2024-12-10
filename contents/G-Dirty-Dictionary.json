@@ -1,68 +1,367 @@
 {
-    "dictionary": [
-        {
-            "term": "Gag",
-            "definition": "Any object used to obstruct a person's breathing or to prevent them from talking, especially during sex. A common sex toy in BDSM play."
-        },
-        {
-            "term": "Gagging",
-            "definition": "Most often refers to a partner choking during fellatio and deep throating."
-        },
-        {
-            "term": "Gag Gift",
-            "definition": "1. When a man unexpectedly forces his penis into his partner's throat during fellatio. 2. An unexpectedly large penis."
-        },
-        {
-            "term": "Gag Reflex",
-            "definition": "The involuntary reaction by throat muscles to expel anything lodged in the wind pipe. In terms of sex, this is often activated during rough fellatio."
-        },
-        {
-            "term": "Gaining",
-            "definition": "A fat fetish in which pleasure is derived from the idea of oneself, or another, gaining weight. Related to: feederism, feeding, feedism, inflation, immobility, padding."
-        },
-        {
-            "term": "Gallantry",
-            "definition": "Respectful behavior or manners exhibited by men toward women."
-        },
-        {
-            "term": "Gangbang",
-            "definition": "An orgy in which multiple men have sex with one woman."
-        },
-        {
-            "term": "Ganymede",
-            "definition": "A young, boyish homosexual man. Origins: In Greek mythology, Ganymede was kidnapped by Zeus to be a sex slave for the Gods."
-        },
-        {
-            "term": "Gay",
-            "definition": "1. Homosexual. Specifically, a homosexual man."
-        },
-        {
-            "term": "Gaydar",
-            "definition": "An ability to distinguish homosexuals from heterosexuals."
-        },
-        {
-            "term": "Gift Giver",
-            "definition": "A person who infects others with HIV."
-        },
-        {
-            "term": "GILF",
-            "definition": "“Grandma I’d like to fuck.” A category in porn."
-        },
-        {
-            "term": "Glory Hole",
-            "definition": "A hole in the wall of a bathroom stall through which men stick their dicks to receive anonymous fellatio."
-        },
-        {
-            "term": "Golden Shower",
-            "definition": "Urinating on your partner."
-        },
-        {
-            "term": "Gymnophilia",
-            "definition": "A fetish for nudity."
-        },
-        {
-            "term": "Gynecomania",
-            "definition": "A manic sexual desire for women. Synonyms: satyriasis."
-        }
+  "DirtyDictionary": {
+    "G": [
+      {
+      "term": "Gag",
+      "definition": "Any object used to obstruct a person's breathing or to prevent them from talking, especially during sex. A common sex toy in BDSM play."
+    },
+    {
+      "term": "Gagging",
+      "definition": "Most often refers to a partner choking during fellatio and deep throating."
+    },
+    {
+      "term": "Gag Gift",
+      "definitions": [
+        "When a man unexpectedly forces his penis into his partner's throat during fellatio.",
+        "An unexpectedly large penis."
+      ]
+    },
+    {
+      "term": "Gag Reflex",
+      "definition": "The involuntary reaction by throat muscles to expel anything lodged in the wind pipe. In terms of sex, this is often activated during rough fellatio."
+    },
+    {
+      "term": "Gaining",
+      "definition": "A fat fetish in which pleasure is derived from the idea of oneself, or another, gaining weight.",
+      "related_to": ["feederism", "feeding", "feedism", "inflation", "immobility", "padding"]
+    },
+    {
+      "term": "Gallantry",
+      "definition": "Respectful behavior or manners exhibited by men toward women. While this is often considered an aspect of gentlemanliness and romance, gallantry has its origins in misogynistic societies in which men were expected to provide for and protect women, who were viewed as the weaker sex."
+    },
+    {
+      "term": "Game Show Host",
+      "definition": "A man who has the ability to kiss women within moments of meeting them. A smooth operator."
+    },
+    {
+      "term": "Gangbang",
+      "definition": "An orgy in which multiple men have sex with one woman."
+    },
+    {
+      "term": "Ganymede",
+      "definition": "A young, boyish homosexual man.",
+      "origins": "In Greek mythology, Ganymede was kidnapped by Zeus to be a sex slave for the Gods.",
+      "synonyms": ["boy toy", "twink"]
+    },
+    {
+      "term": "Gape",
+      "definition": "When an anus remains dilated for a few moments after anal penetration."
+    },
+    {
+      "term": "Garbage Canning",
+      "definition": "Masturbating into a trashcan. An efficient form of masturbation that requires little clean up."
+    },
+    {
+      "term": "Gay",
+      "definitions": [
+        "Homosexual. Specifically, a homosexual man."
+      ],
+      "synonyms": [
+        "ass bandit", "ass banger", "ass jabber", "ass king", "ass pirate", "batting for the other team/side",
+        "bear", "beefeater", "broken-wrist", "brother fucker", "Bruce", "buff puff", "bun duster",
+        "buttercup", "butt fucker", "butt pirate", "cake eater", "chicken hawk", "cock jockey",
+        "cream puff", "dairy queen", "dandy", "dick tickler", "effie", "fag", "faggot", "fairy",
+        "father fucker", "flamer", "flute player", "friend of Dorothy", "fruit", "gay ass",
+        "gay boy", "gay lord", "gay wad", "homo", "lad-lass", "lisper", "lavender boy", "Liberace",
+        "light foot", "light in the loafers", "lily", "limp wrist", "Mary Ann", "Miss Nancy",
+        "meat hound", "midnight companion", "Nancy", "nancy boy", "Nelly", "pansy", "panty waist",
+        "piccolo player", "pillow biter", "poof", "poofter", "powder puff", "queer",
+        "queer as a three dollar bill", "queen", "rear admiral", "rear gunner", "rimadonna",
+        "receiver", "screaming fairy", "sissy", "sister", "sword swallower", "twink",
+        "turd burglar", "uncle fucker", "woofter"
+      ],
+      "notes": "Derogatory"
+    },
+    {
+      "term": "Gay Cancer",
+      "definition": "AIDS."
+    },
+    {
+      "term": "Gaydar",
+      "definition": "An ability to distinguish homosexuals from heterosexuals."
+    },
+    {
+      "term": "Gay for Pay",
+      "definition": "A self-proclaimed heterosexual man who sleeps with men for money. Used to describe some prostitutes and/or cock stars."
+    },
+    {
+      "term": "Gaynol",
+      "definition": "Anal sex between men.",
+      "synonyms": ["manal"]
+    },
+    {
+      "term": "Gender Bender",
+      "definition": "Someone who plays with gender roles, and gender identity, often embodying both male and female elements."
+    },
+    {
+      "term": "Gender Outlaw",
+      "definition": "One who refuses any and all attempt to be labeled a specific gender.",
+      "origins": "A book of the same name by Kate Bornstein."
+    },
+    {
+      "term": "Gender Queer",
+      "definition": "A person whose gender is intentionally ambiguous."
+    },
+    {
+      "term": "Gerbiling",
+      "definition": "The absurd urban legend that some men put gerbils in their asses. Most common versions of this myth involve putting a tube into one's asshole, coaxing a gerbil to crawl down that tube, then removing the tube, trapping the gerbil inside. Just as practical as a woman stuffing a hedgehog in her vagina, or hedgehogging."
+    },
+    {
+      "term": "Gerontophilia",
+      "definition": "A fetish for older partners, particularly partners who belong to an older generation."
+    },
+    {
+      "term": "Get Your Dick Wet, Get Wet",
+      "definition": "When a man has sex. Often used in reference to a man having sex for the sport of it, as opposed to other emotional reasons."
+    },
+    {
+      "term": "GGG",
+      "definition": "\"Good, giving, and game.\" The term was coined by Dan Savage, in attempt to define what we should all strive to be for our sex partners. \"Think 'good in bed,' 'giving equal time and equal pleasure,' and 'game for anything—within reason.'\""
+    },
+    {
+      "term": "GGirl",
+      "definition": "A genetic girl. Often used in the transgender community."
+    },
+    {
+      "term": "Ghetto Booty",
+      "definition": "A large butt, often acquired from eating too much fast food."
+    },
+    {
+      "term": "Gift Giver",
+      "definition": "A person who infects others with HIV."
+    },
+    {
+      "term": "Gigolo",
+      "definition": "A male prostitute who deals primarily with female clientele.",
+      "synonyms": ["chicken", "Hessian", "hustler", "prick pusher/peddler"]
+    },
+    {
+      "term": "GILF",
+      "definition": "“Grandma I’d like to fuck.” A category in porn."
+    },
+    {
+      "term": "The Girls",
+      "definition": "Breasts."
+    },
+    {
+      "term": "Girlfriend",
+      "definition": "A woman who exists in an unstable state, somewhere between fuck buddy and wife."
+    },
+    {
+      "term": "Girlfriend Proof",
+      "definition": "Concealing anything in your apartment that may insight rage in your girlfriend. This usually involves hiding porn and any evidence of infidelity."
+    },
+    {
+      "term": "Girlfriend Voice",
+      "definition": "The effeminate voice a man adopts when talking to his girlfriend."
+    },
+    {
+      "term": "Girl Next Door",
+      "definition": "An attractive, though seemingly innocent and virginal woman."
+    },
+    {
+      "term": "Girl-rilla",
+      "definition": "A muscular, beast of a woman.",
+      "origins": "the first female UFC champion, Ronda Rousey."
+    },
+    {
+      "term": "Girlvert",
+      "definition": "A woman who is just as obsessed with sex as most men.",
+      "origins": "Porn star, Ashley Blue."
+    },
+    {
+      "term": "Glamazon",
+      "definition": "A tall fashionable woman or MTF transsexual."
+    },
+    {
+      "term": "Glass Bottom Boat",
+      "definition": "When one person positions himself under a glass coffee table while his partner defecates on the glass.",
+      "variations": ["plating", "hot lunch"]
+    },
+    {
+      "term": "Glass Slipper of our Generation",
+      "definition": "Condom.",
+      "origins": "Chuck Palahniuk's novel, Fight Club."
+    },
+    {
+      "term": "Glazed Donut",
+      "definition": "Ejaculating on a woman’s ass, creating what looks like a glazed pastry."
+    },
+    {
+      "term": "Glory Hole",
+      "definition": "A hole in the wall of a bathroom stall through which men stick their dicks to receive anonymous fellatio, often while pretending the man on the other side of the stall is a woman."
+    },
+    {
+      "term": "The Goat",
+      "definition": "The most difficult move in the ball showing game, as it requires total commitment. A player drops his pants and bends over with his dick and balls tucked back between his legs, thus exposing a fruit basket of delectables for the player who walks in on this scene."
+    },
+    {
+      "term": "Gob Stoppers",
+      "definition": "Fake eyelashes worn by porn stars and promiscuous women that prevent cum from getting in their eyes during facials.",
+      "synonyms": ["safety goggles"]
+    },
+    {
+      "term": "Gokkun",
+      "definition": "A form of bukkake in which a person drinks one or more men’s semen, usually from a container. A porn category.",
+      "origins": "Japan."
+    },
+    {
+      "term": "Gold Digger",
+      "definition": "A person who chooses romantic partners for financial gain."
+    },
+    {
+      "term": "Golden Shower",
+      "definition": "Urinating on your partner.",
+      "synonyms": ["yellow shower", "traveling the yellow river"]
+    },
+    {
+      "term": "Gonorrhea",
+      "definition": "An STD caused by a bacterial infection. Its symptoms include a burning discharge from the urethra or vagina.",
+      "synonyms": ["clap", "a dose", "piss pins and needles", "stank cock"]
+    },
+    {
+      "term": "Gonzo",
+      "definition": "A type of porn that focuses just on the hardcore sex as opposed to the extraneous fluff in a mainstream porno such as set design, costumes, or plot. These scenes are often characterized by POV shots that make the viewer feel as though he is in the scene, and closeups on the genitals.",
+      "origins": "From Hunter S. Thompson's style of journalism in which he would insert himself into a story."
+    },
+    {
+      "term": "Goo Fetish",
+      "definition": "A fetish for gooey substances, which often takes the form of tentacles. Related to wet and messy fetishes, and sploshing.",
+      "synonyms": ["slime fetish"]
+    },
+    {
+      "term": "Gooch",
+      "definition": "Perineum."
+    },
+    {
+      "term": "Gorilla Mask",
+      "definition": "An absurd sex act in which a man blows his load on his partner’s face, rips out a patch of her pubic hair, then tosses the hair on her sticky face, which will inevitably have the expression of an angry ape."
+    },
+    {
+      "term": "Gray/Grey Fox",
+      "definition": "An older man who is still sexually desirable. Often a successful man who dresses well, works out, and actively pursues younger women. The male equivalent to a Cougar."
+    },
+    {
+      "term": "Great Personality",
+      "definition": "Physically ugly."
+    },
+    {
+      "term": "Greek Sex",
+      "definition": "Anal sex."
+    },
+    {
+      "term": "Greet and Meat",
+      "definition": "When you meet up for sex. A one night stand."
+    },
+    {
+      "term": "Grenade",
+      "definition": "The ugly friend in a group of women who will act as a cock block unless someone mans up and charms her. Such a selfless and heroic act is referred to as \"jumping on the grenade.\""
+    },
+    {
+      "term": "Grindhouse",
+      "definition": "A seedy strip club.",
+      "origins": "the 1943 film, Lady Burlesque."
+    },
+    {
+      "term": "Ground and Pound",
+      "definition": "Modeled after the MMA maneuver, this describes any sex act in which the man drills his partner as hard and fast as he can. As in a MMA match, this usually occurs at the climax of the event."
+    },
+    {
+      "term": "Group Grope",
+      "definition": "A gang of men fondling each other.",
+      "synonyms": ["circle jerk"]
+    },
+    {
+      "term": "Growler",
+      "definition": "A hair vagina that has an angry countenance and despises visitors.",
+      "synonyms": ["bear claw"]
+    },
+    {
+      "term": "Grrl",
+      "definition": "A militant feminist or a lesbian who confuses her sexuality and preferences for a liberated view point.",
+      "synonyms": ["feminazi", "womyn"]
+    },
+    {
+      "term": "Grundle",
+      "definition": "The perineum. The bridge of skin between your genitals and anus."
+    },
+    {
+      "term": "G-String",
+      "definition": "A thong with a thin piece of material strung between the ass cheeks."
+    },
+    {
+      "term": "G-String Jockey",
+      "definition": "The personal assistant, typically male, and/or boyfriend, of a female, adult entertainer. These men accompany their cash cows to conventions and feature dancing appearances, doing whatever their employer needs: acting as bodyguard, driver, collector of dollars, roller of posters, washer of thongs, and general bitch boy."
+    },
+    {
+      "term": "Guilt Sex",
+      "definition": "Sex that results from a feeling of obligation, such as when a woman sleeps with a man she is not attracted to after he pays to take her on vacation."
+    },
+    {
+      "term": "Gumball Machine",
+      "definition": "A man who ejaculates quickly and often."
+    },
+    {
+      "term": "Gunt",
+      "definition": "The fat above a woman’s pubic area, just below her last roll of fat. So named as it is neither her gut nor her cunt, but a hybrid of the two.",
+      "synonyms": ["FUPA"]
+    },
+    {
+      "term": "Gun Fetish",
+      "definition": "A fetish for the power embodied by guns. In practice this fetish can manifest as women posing with, firing, or performing sex acts with guns. In extreme cases, it can involve a person aiming a gun at his sex partner during sex."
+    },
+    {
+      "term": "Guppie",
+      "definition": "A young, gay yuppie."
+    },
+    {
+      "term": "Guppy Face",
+      "definition": "The expectant look a partner makes while waiting for a facial."
+    },
+    {
+      "term": "Gurl",
+      "definition": "In the transgendered community, this term refers to MTF cross dressers.",
+      "synonyms": ["T girl"]
+    },
+    {
+      "term": "Guro",
+      "definition": "A fetish for blood and guts that often involves the fantasy of creating gashes in another's skin for use as a sexual orifice. This is a popular fantasy depicted in animated hentai films. Some people with guro fetish wish to be disemboweled themselves.",
+      "similar_to": ["amputation/amputee fetishes", "nullo", "body modification", "vore", "snuff", "non-con", "pain play", "cutting", "medical play"]
+    },
+    {
+      "term": "Gusher",
+      "definition": "A female ejaculator.",
+      "synonyms": ["squirter"]
+    },
+    {
+      "term": "Guybrator",
+      "definition": "A sex toy meant to massage a man's prostate."
+    },
+    {
+      "term": "Guy with a Pie",
+      "definition": "A pre-op FTM transsexual who still has her vagina."
+    },
+    {
+      "term": "GWC",
+      "definition": "“Guy with camera.” A derogatory term used by models to describe creepy men who use their oversized cameras as an excuse to get close to attractive women. These men often describe themselves as photographers and offer to take nude photos of models."
+    },
+    {
+      "term": "Gymnophilia",
+      "definition": "A fetish for nudity."
+    },
+    {
+      "term": "Gynecomania",
+      "definition": "A manic sexual desire for women.",
+      "synonyms": ["satyriasis"]
+    },
+    {
+      "term": "Gynecomastia",
+      "definition": "The medical term for man boobs or moobs."
+    },
+    {
+      "term": "Gynemimetophilia",
+      "definition": "A fetish for female impersonators."
+      }
     ]
+  }
 }
