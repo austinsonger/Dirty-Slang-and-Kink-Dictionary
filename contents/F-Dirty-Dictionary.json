@@ -1,88 +1,525 @@
 {
-    "dictionary": [
-        {
-            "term": "Face Job/Fucking",
-            "definition": "Thrusting a penis into a partner during fellatio as if the mouth were a more accommodating orifice. This act often provokes an excess of saliva and involuntary tears."
-        },
-        {
-            "term": "Facial",
-            "definition": "When a man ejaculates on his partner’s face. Synonym: money shot."
-        },
-        {
-            "term": "Factory Equipped",
-            "definition": "A pre-op transsexual who still has all of his/her original parts."
-        },
-        {
-            "term": "Fag, Faggot, Fagot",
-            "definition": "1. A gay man. 2. A cigarette. Origins: Once referred to a bundle of sticks used for fuel."
-        },
-        {
-            "term": "Fag Hag",
-            "definition": "A woman who hangs out with attractive gay men as a means of boosting her self-confidence. Synonym: fruit fly."
-        },
-        {
-            "term": "Fag Fucker",
-            "definition": "A man who has gay sex but who claims he is heterosexual."
-        },
-        {
-            "term": "Fagulus",
-            "definition": "Fabulously gay."
-        },
-        {
-            "term": "Fangirl, Fanboy",
-            "definition": "A person who is obsessed with a celebrity or fictional character to the point that their fascination becomes a fetish."
-        },
-        {
-            "term": "Farticles",
-            "definition": "Poo particles that explode into the air during a fart."
-        },
-        {
-            "term": "Fascinus, fascinum",
-            "definition": "In ancient Roman religion, the embodiment of the dick deity or a phallic charm/ amulet."
-        },
-        {
-            "term": "Fat Admirer/Fetish",
-            "definition": "A fetish for obesity. A broad category for several sub-fetishes: padding, inflation, stuffing, gaining, immobility, feederism, feedism, feeding fetish."
-        },
-        {
-            "term": "Fat Ass, Fatty",
-            "definition": "full blown fatty, heifer, hog, pig, plumper, whale."
-        },
-        {
-            "term": "Father Complex",
-            "definition": "Most commonly refers to when a woman is attracted to older, sugar-daddy types in part because she lacked a father figure who provided for her as a child. Synonyms: daddy issues."
-        },
-        {
-            "term": "FBE",
-            "definition": "\"Full blown erection.\" Origins: The TV show, Guy Code."
-        },
-        {
-            "term": "Feederism, Feedism, Feeding Fetish, Forced Feeding",
-            "definition": "A fat fetish in which pleasure is derived from feeding oneself, or another, with the intention of increasing a person's size."
-        },
-        {
-            "term": "Felch, Feltch",
-            "definition": "To suck or lick semen out of an orifice."
-        },
-        {
-            "term": "Fellatio",
-            "definition": "Oral sex performed on a penis. Synonyms: BJ, blow, blowie, blow job, bob on the knob, cock sucking, go down on, etc."
-        },
-        {
-            "term": "Female Muscle Fetish",
-            "definition": "A fetish for muscular females. This often stems from a sub's desire to be dominated and emasculated by a physically superior female."
-        },
-        {
-            "term": "Foot Fetish",
-            "definition": "Being sexually aroused by feet, to the point where you want to stick feet in your mouth and rub your genitals on them."
-        },
-        {
-            "term": "Frotteurism",
-            "definition": "A fetish for rubbing against an unsuspecting, and non-consenting, person. Often performed on trains, buses, or in crowds."
-        },
-        {
-            "term": "Futanari",
-            "definition": "The Japanese word for hermaphrodite, meaning literally, \"dual forms.\" In hentai anime, futanari characters are women equipped with large penises."
-        }
+  "DirtyDictionary": {
+    "F": [
+      {
+        "term": "Face Job/Fucking",
+        "definition": "Thrusting a penis into a partner during fellatio as if the mouth were a more accommodating orifice. This act often provokes an excess of saliva and involuntary tears. It is commonly featured in hardcore porn scenes and involves gagging, deep throating, and runny mascara."
+      },
+      {
+        "term": "Facial",
+        "definition": "When a man ejaculates on his partner’s face.",
+        "synonym": "money shot"
+      },
+      {
+        "term": "Factory Equipped",
+        "definition": "A pre-op transsexual who still has all of his/her original parts."
+      },
+      {
+        "term": "Fag, Faggot, Fagot",
+        "definition": "1. A gay man. 2. A cigarette.",
+        "origins": "Once referred to a bundle of sticks used for fuel."
+      },
+      {
+        "term": "Fag Hag",
+        "definition": "A woman who hangs out with attractive gay men as a means of boosting her self-confidence.",
+        "synonym": "fruit fly"
+      },
+      {
+        "term": "Fag Fucker",
+        "definition": "A man who has gay sex but who claims he is heterosexual."
+      },
+      {
+        "term": "Fagulus",
+        "definition": "Fabulously gay."
+      },
+      {
+        "term": "Fangirl, Fanboy",
+        "definition": "A person who is obsessed with a celebrity or fictional character to the point that their fascination becomes a fetish."
+      },
+      {
+        "term": "Farticles",
+        "definition": "Poo particles that explode into the air during a fart."
+      },
+      {
+        "term": "Fascinus, fascinum",
+        "definition": "In ancient Roman religion, the embodiment of the dick deity or a phallic charm/amulet."
+      },
+      {
+        "term": "Fat Admirer/Fetish",
+        "definition": "A fetish for obesity. A broad category for several sub-fetishes: padding, inflation, stuffing, gaining, immobility, feederism, feedism, feeding fetish."
+      },
+      {
+        "term": "Fat Ass, Fatty",
+        "definition": "Full blown fatty, heifer, hog, pig, plumper, whale."
+      },
+      {
+        "term": "Father Complex",
+        "definition": "Most commonly refers to when a woman is attracted to older, sugar-daddy types in part because she lacked a father figure who provided for her as a child.",
+        "synonyms": ["daddy issues"]
+      },
+      {
+        "term": "FBE",
+        "definition": "\"Full blown erection.\"",
+        "origins": "The TV show, Guy Code."
+      },
+      {
+        "term": "Feederism, Feedism, Feeding Fetish, Forced Feeding",
+        "definition": "A fat fetish in which pleasure is derived from feeding oneself, or another, with the intention of increasing a person's size.",
+        "related": ["gaining", "inflation", "immobility", "padding", "stuffing"]
+      },
+      {
+        "term": "Feeding the Kitty",
+        "definition": "Vaginal intercourse."
+      },
+      {
+        "term": "Felch, Feltch",
+        "definition": "To suck or lick semen out of an orifice."
+      },
+      {
+        "term": "Fellatio",
+        "definition": "Oral sex performed on a penis.",
+        "synonyms": [
+          "BJ",
+          "blow",
+          "blowie",
+          "blow job",
+          "blow the whistle",
+          "bob on the knob",
+          "bop",
+          "cock sucking",
+          "eat dick",
+          "gobble",
+          "go down on",
+          "fluting",
+          "head",
+          "hummer",
+          "knob job",
+          "lay some lip",
+          "lick the lollypop",
+          "mouth fuck",
+          "munch",
+          "oral sex",
+          "pipe job",
+          "play the skin flute",
+          "polish the knob",
+          "slob the knob",
+          "smoke a dick",
+          "snake charming",
+          "suck dick",
+          "suck the sugar stick",
+          "suck fuck",
+          "swallow a sword",
+          "taking the B train to J town",
+          "tonsil exam",
+          "zipper sex/dinner"
+        ]
+      },
+      {
+        "term": "Female Copulatory Vocalizations (FCV)",
+        "definition": "When female primates, including women, vocalize in specific ways during intercourse. Some scientists suggest these vocalizations are a way of calling over other males."
+      },
+      {
+        "term": "Female Masking",
+        "definition": "A modern form of cross dressing in which men wear rubber masks, and even synthetic skin suits beneath their feminine clothes, making them look like living sex dolls."
+      },
+      {
+        "term": "Female Muscle Fetish",
+        "definition": "A fetish for muscular females. This often stems from a sub's desire to be dominated and emasculated by a physically superior female."
+      },
+      {
+        "term": "Femanal",
+        "definition": "Anal sex with a woman.",
+        "antonym": "manal"
+      },
+      {
+        "term": "Fem-bot",
+        "definition": "An attractive woman who is so emotionally cold as to provoke suspicion that she is a robot.",
+        "origins": "Austin Powers"
+      },
+      {
+        "term": "Feminazi",
+        "definition": "A woman who describes herself as a feminist, but who blames men for all of her problems and shortcomings."
+      },
+      {
+        "term": "Feminista",
+        "definition": "A woman who thinks it is fashionable to be a feminist. Also, a woman who thinks fashion makes her a woman."
+      },
+      {
+        "term": "Femme",
+        "definition": "Often refers to a gay man or lesbian who has an abundance of feminine characteristics."
+      },
+      {
+        "term": "Fetish",
+        "definition": "Sexual arousal resulting from a fixation with a specific act or thing. Some fetishes are so intense that a person has trouble reaching an orgasm unless he engages in, or at least fantasizes about, his fetish."
+      },
+      {
+        "term": "Fetishize",
+        "definition": "To develop a sexual obsession around an object or act."
+      },
+      {
+        "term": "Fish Flaps",
+        "definition": "Large and smelly labia minora."
+      },
+      {
+        "term": "Fish Taco",
+        "definition": "A vagina that smells or tastes like fish."
+      },
+      {
+        "term": "Fisting",
+        "definition": "Inserting a fist into an orifice."
+      },
+      {
+        "term": "FILO",
+        "definition": "“First in, last out.” A man, usually a husband, who is the only person a woman has had sex with.",
+        "synonyms": ["one and only"]
+      },
+      {
+        "term": "FINE",
+        "definition": "“Fucked up, insecure, neurotic, and emotional.” A person who places too much value on being physically attractive."
+      },
+      {
+        "term": "Finger, Finger Bang/Blast",
+        "definition": "Penetrating an orifice with one or more fingers."
+      },
+      {
+        "term": "Firecrotch",
+        "definition": "A person whose pubic hair is naturally red.",
+        "synonyms": ["redhead", "ginger", "day walker"]
+      },
+      {
+        "term": "Flagellation",
+        "definition": "Striking a partner via whipping, spanking, flogging, or paddling."
+      },
+      {
+        "term": "Flamer",
+        "definition": "A flamboyantly gay man."
+      },
+      {
+        "term": "Flash",
+        "definition": "Briefly exposing any area of the body in public that is traditionally concealed."
+      },
+      {
+        "term": "Flash the Headlights",
+        "definition": "When a woman briefly exposes her pale breasts, nipples and all, in public, usually to get someone’s attention."
+      },
+      {
+        "term": "Flatulence",
+        "definition": "",
+        "synonyms": [
+          "air biscuit",
+          "air blast",
+          "backfire",
+          "back talk",
+          "blowing heat",
+          "break wind",
+          "butt burp",
+          "cheek flapper",
+          "chocolate thunder",
+          "crop dusting",
+          "cut one",
+          "cut the cheese",
+          "dutch oven",
+          "fart",
+          "fire in the hole",
+          "fog horn",
+          "gas",
+          "gale force wind",
+          "let one go",
+          "machine gun",
+          "pant ripper",
+          "pass gas",
+          "pocket thunder",
+          "poot",
+          "scud missile",
+          "silent but deadly (SBD)",
+          "skunk",
+          "stainer",
+          "tail shot",
+          "talk German",
+          "trouser trumpet",
+          "wet one"
+        ]
+      },
+      {
+        "term": "Flatulophilia",
+        "definition": "A fetish for farts.",
+        "synonym": "eproctolagniac"
+      },
+      {
+        "term": "Flapjacks",
+        "definition": "Small, flattened looking boobs. Despite the name, these are generally not appetizing."
+      },
+      {
+        "term": "Fleshlight",
+        "definition": "A brand-name sex toy for men that looks like a flashlight, but which contains an artificial vagina."
+      },
+      {
+        "term": "Flip Flop",
+        "definition": "To serve as both the dominant and submissive partner, the top and the bottom, at different times during a relationship or a single sex session. Common among the gay, lesbian, and BDSM community."
+      },
+      {
+        "term": "Flirt",
+        "definition": "1. To demonstrate attraction. 2. One who demonstrates attraction, often with no intention of acting on such feelings."
+      },
+      {
+        "term": "Flogger",
+        "definition": "A type of whip with multiple tails."
+      },
+      {
+        "term": "Flood the Cave",
+        "definition": "Urinating in an orifice."
+      },
+      {
+        "term": "Floor Mattress",
+        "definition": "A mattress that sits on the floor with no bed-frame. Often a sign of poverty."
+      },
+      {
+        "term": "Flossing",
+        "definition": "Performing oral sex on a hairy vagina or anus."
+      },
+      {
+        "term": "Fluffer",
+        "definition": "The mythic person on a porn set whose job it is to maintain the male performer's erection between shots."
+      },
+      {
+        "term": "Fluff the Muff",
+        "definition": "Female masturbation."
+      },
+      {
+        "term": "Fly Fisherman",
+        "definition": "A man who artfully seduces women without relying on any of the lures that traditionally attract sex partners, such as wealth, good looks, or power.",
+        "synonym": "pick up artist"
+      },
+      {
+        "term": "Fly Fishing",
+        "definition": "The leisure art of masturbation."
+      },
+      {
+        "term": "Fog the Windows",
+        "definition": "Sex, particularly in a parked car."
+      },
+      {
+        "term": "Food/Water Denial",
+        "definition": "A type of denial play in which the dom refuses the sub food or water."
+      },
+      {
+        "term": "Foot Fetish",
+        "definition": "Being sexually aroused by feet, to the point where you want to stick feet in your mouth and rub your genitals on them."
+      },
+      {
+        "term": "Foot Job",
+        "definition": "Using feet to bring a man to climax. This usually involves sliding a penis between the soles of a partner’s feet, or between the toes."
+      },
+      {
+        "term": "Foreplay",
+        "definition": "Any erotic act that precedes, and often prepares a partner for, intercourse. May be performed to prolong the sexual experience, to lubricate the genitals with saliva or vaginal fluid, to stimulate an erection, to get a partner in the mood for more penetrative sex, or to get either partner as near the point of climax as possible."
+      },
+      {
+        "term": "Foreskin",
+        "definition": "The excess skin on the shaft of the penis that covers the head, especially when the penis is flaccid. This is what is removed during circumcision.",
+        "synonyms": ["prepuce"]
+      },
+      {
+        "term": "Formicophilia",
+        "definition": "A fetish for insects crawling on you and your genitals. Often involves ants."
+      },
+      {
+        "term": "Fourgy",
+        "definition": "An orgy with four participants."
+      },
+      {
+        "term": "Four on the Floor",
+        "definition": "Doggy style sex."
+      },
+      {
+        "term": "Fourth Base",
+        "definition": "Anal sex."
+      },
+      {
+        "term": "Franken Pussy",
+        "definition": "A vagina that has been surgically brought back to life, especially after childbirth."
+      },
+      {
+        "term": "Franken Penis",
+        "definition": "A penis that has endured some form of major, physical trauma.",
+        "origins": "The title of a porno John Wayne Bobbitt made after Lorena Bobbitt cut off his penis then threw it in a field."
+      },
+      {
+        "term": "French Bread",
+        "definition": "A long, skinny, and usually white penis."
+      },
+      {
+        "term": "French Embassy",
+        "definition": "A gay hangout."
+      },
+      {
+        "term": "French Horn",
+        "definition": "A sex act that mimics the playing of a French horn. As the couple kisses, one partner fondles the other’s genitals with one hand while fisting her ass with the other, changing the pitch of the sounds that emerge from this rear blow hole."
+      },
+      {
+        "term": "French Kiss",
+        "definition": "A tongue kiss.",
+        "synonyms": ["Cataglottism"]
+      },
+      {
+        "term": "Freud Stick",
+        "definition": "Penis. So named as it is a physical measure of your innermost desires."
+      },
+      {
+        "term": "Frictation",
+        "definition": "When two men rub penises together while facing each other.",
+        "synonyms": [
+          "cock rub",
+          "bumping dicks",
+          "frontism",
+          "the Ivy League rub",
+          "knocking cocks",
+          "Oxford style",
+          "the Princeton Rub",
+          "sword fighting",
+          "tummy sticks"
+        ]
+      },
+      {
+        "term": "Friend of Dorothy",
+        "definition": "A gay man."
+      },
+      {
+        "term": "Friend's With Benefits, FWB",
+        "definition": "A friend you have sex with while attempting to avoid a romantic relationship.",
+        "synonyms": ["fuck buddy"]
+      },
+      {
+        "term": "Friend Zone",
+        "definition": "A place men are exiled when they do not have the balls to express their attraction for a love interest soon enough. A relationship limbo where you serve all the platonic functions of a significant other without receiving any of the sexual benefits."
+      },
+      {
+        "term": "Frotteurism",
+        "definition": "A fetish for rubbing against an unsuspecting, and non-consenting, person. Often performed on trains, buses, or in crowds."
+      },
+      {
+        "term": "Frottage",
+        "definition": "Non-penetrative sex acts that often involve rubbing. Includes ass jobs, the Cardinal George, cock dogging, foot jobs, hand jobs, Harvard Style, outercourse, The Princeton Rub, titty fucking..."
+      },
+      {
+        "term": "Frot",
+        "definition": "Usually refers to any non-penetrative sex act that involves two penises rubbing together.",
+        "synonyms": [
+          "cock rub",
+          "bumping dicks",
+          "frictation",
+          "frontism",
+          "the Ivy League rub",
+          "knocking cocks",
+          "Oxford style",
+          "the Princeton Rub",
+          "sword fighting",
+          "tummy sticks"
+        ]
+      },
+      {
+        "term": "Fruit Cup",
+        "definition": "A jockstrap."
+      },
+      {
+        "term": "FTM, F2M",
+        "definition": "“Female-to-male.” In reference to a transsexual."
+      },
+      {
+        "term": "Fuck",
+        "definition": "1. To have sex. 2. The most popular American curse word. 3. An idiot.",
+        "variations": ["fucker", "fuck bag", "fuck brain", "fuck face", "fuck head", "fuck nut", "fuck tard", "fuck tart", "fuck up", "fuck wad"],
+        "additional_term": "Fuckable",
+        "additional_definition": "A person you would have sex with but not date."
+      },
+      {
+        "term": "Fuck Buddy",
+        "definition": "What a woman is referred to behind her back when she agrees to carry on a sexual relationship with a man who has no interest in dating her."
+      },
+      {
+        "term": "Fuck Butter",
+        "definition": "Personal lubricant or any body fluids that are produced during sex."
+      },
+      {
+        "term": "Fuck Hole",
+        "definition": "Any orifices that can accommodate a penis."
+      },
+      {
+        "term": "Fuck Off",
+        "definition": "A command intended to get someone to leave you alone."
+      },
+      {
+        "term": "Fuck Slam",
+        "definition": "An absurd sex act in which the top partner suddenly pulls the bottom partner's legs out from under her while fucking her from behind, causing her to slam down on her stomach."
+      },
+      {
+        "term": "Fuck Stick, Fuck Rod, Fuck pole",
+        "definition": "Penis."
+      },
+      {
+        "term": "Fuck Tard",
+        "definition": "A person whose intelligence is compromised by sexual thoughts."
+      },
+      {
+        "term": "Fucktarded",
+        "definition": "When you are fucked so hard that you become mentally handicapped for a short period of time."
+      },
+      {
+        "term": "Fucktory",
+        "definition": "Brothel."
+      },
+      {
+        "term": "Fudge Packer",
+        "definition": "A gay man."
+      },
+      {
+        "term": "Fugly",
+        "definition": "Abbreviation for “fucking ugly.”"
+      },
+      {
+        "term": "Full Blown Fatty, FBF",
+        "definition": "An obese person who would be considered fat by any standard of measurement."
+      },
+      {
+        "term": "Full House",
+        "definition": "Carrying more than one STD."
+      },
+      {
+        "term": "Full Sail",
+        "definition": "A full blown erection."
+      },
+      {
+        "term": "Functional Homosexual",
+        "definition": "One who has gay sex because of an absence of heterosexual partners. Often occurs in extreme situations, such as in prison or on remote military deployments."
+      },
+      {
+        "term": "FUPA",
+        "definition": "“Fat upper pubic area.” The hump of fat that appears on some women below their bellybutton but above their vagina."
+      },
+      {
+        "term": "Fur Ball",
+        "definition": "What is coughed up after performing cunnilingus on a hairy vagina."
+      },
+      {
+        "term": "Fur Burger/Pie",
+        "definition": "A hairy, yet still appetizing, vagina."
+      },
+      {
+        "term": "Furry",
+        "definition": "One who has the fetish ursusagalmatophilia, in which people wear downy costumes to either dry hump or have anonymous sex with other furries. Also includes people who like to have sex with stuffed animals.",
+        "synonyms": ["plushies"]
+      },
+      {
+        "term": "Furvert",
+        "definition": "One who has a fetish for pubic hair."
+      },
+      {
+        "term": "Futanari",
+        "definition": "The Japanese word for hermaphrodite, meaning literally, \"dual forms.\" In hentai anime, futanari characters are women equipped with large penises. These characters present an optical illusion to the male psyche."
+      }
     ]
+  }
 }
+
+
+
