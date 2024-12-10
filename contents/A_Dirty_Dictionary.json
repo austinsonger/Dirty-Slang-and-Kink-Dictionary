@@ -1,6 +1,6 @@
 {
- "dictionary": [
-  {
+  "DirtyDictionary": {
+    "A": [
     "Term": "ABC party",
     "Definition": "“Anything but clothes” theme party in which guests can come naked or draped in non-traditional coverups, such as duct tape, boxes, newspaper…"
   },
@@ -371,5 +371,7 @@
   {
     "Term": "Axillism",
     "Definition": "A fetish for armpits."
+      }
+    ]
   }
-]
+}
