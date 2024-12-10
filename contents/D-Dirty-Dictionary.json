@@ -1,80 +1,551 @@
 {
-    "dictionary": [
-        {
-            "term": "Dacryphilia",
-            "definition": "A fetish for witnessing others cry. Often a fetish of sadists who enjoy dominating submissive partners to the point of tears."
-        },
-        {
-            "term": "Daddy",
-            "definition": "A dominant partner who is significantly older or who provides for the submissive partner in a variety of ways."
-        },
-        {
-            "term": "Daisy Chain",
-            "definition": "In an orgy when participants become physically linked in a string of sex acts. Often a feature of a bisexual orgy."
-        },
-        {
-            "term": "Dandy",
-            "definition": "A gay man who is excessively stylish and perpetually worried about his appearance."
-        },
-        {
-            "term": "Danglers",
-            "definition": "Excessively droopy labia minora. Synonyms: bacon stripes, beef curtains."
-        },
-        {
-            "term": "DDF",
-            "definition": "“Drug and disease free.” Often used on personals ads."
-        },
-        {
-            "term": "Deal Breaker",
-            "definition": "A negative feature of a potential sex or romantic partner that overrides all of his/her other attractive qualities, and which makes him/her undesirable."
-        },
-        {
-            "term": "Debauchee",
-            "definition": "One who routinely engages in vice, particularly of the sexual variety. Synonyms: libertine, rake, roue."
-        },
-        {
-            "term": "Deep Throating",
-            "definition": "When a penis is jammed down a person’s throat during fellatio."
-        },
-        {
-            "term": "Defecate",
-            "definition": "Synonyms: drop a bomb, drop a load, drop the kids off at the pool, dump, make a deposit, pinch a loaf, poop, pop a squat, take a dump, take a shit."
-        },
-        {
-            "term": "Degradation",
-            "definition": "A fetish for being psychologically degraded, or degrading a partner. Synonyms: erotic humiliation."
-        },
-        {
-            "term": "Demimonde",
-            "definition": "A class of women known to be more promiscuous than the general population. Origins: a French word once used to describe prostitutes."
-        },
-        {
-            "term": "Dendrophilia",
-            "definition": "A fetish for having sex with trees."
-        },
-        {
-            "term": "Denial",
-            "definition": "Refers to a few types of denial play, including orgasm denial, bathroom denial, sensory denial, food/water denial."
-        },
-        {
-            "term": "Dental Dam",
-            "definition": "A piece of latex or rubber stretched over a vagina or asshole during oral sex in order to prevent the transmission of STDs. One can be made by slicing a condom down the side and stretching the latex. Plastic wrap is a poor substitute, but it is better than nothing."
-        },
-        {
-            "term": "Devil's Threesome",
-            "definition": "A threesome involving two men and one woman. This is not the type of threesome most men fantasize about, but it is what most settle for."
-        },
-        {
-            "term": "Devotee",
-            "definition": "A person with a fetish for disabled people. The two most common fetishes devotees have are abasiophilia and acrotomophilia."
-        },
-        {
-            "term": "Diaper Fetish",
-            "definition": "A common prop incorporated into age play or fetishes for infantilism, scat, watersports, humiliation, dominance, helplessness. Some believe this fetish develops early in life, when a child associates diapers with being loved and coddled."
-        },
-        {
-            "term": "Dick",
-            "definition": "1. Penis. 2. A man who behaves as if he does all his thinking with his penis."
-        }
+  "DirtyDictionary": {
+    "D": [
+      {
+        "term": "Dacryphilia",
+        "definition": "A fetish for witnessing others cry. Often a fetish of sadists who enjoy dominating submissive partners to the point of tears."
+      },
+      {
+        "term": "Daddy",
+        "definition": "A dominant partner who is significantly older or who provides for the submissive partner in a variety of ways."
+      },
+      {
+        "term": "Daisy Chain",
+        "definition": "In an orgy when participants become physically linked in a string of sex acts. Often a feature of a bisexual orgy."
+      },
+      {
+        "term": "Dandy",
+        "definition": "A gay man who is excessively stylish and perpetually worried about his appearance."
+      },
+      {
+        "term": "Danglers",
+        "definition": "Excessively droopy labia minora.",
+        "synonyms": ["bacon stripes", "beef curtains"]
+      },
+      {
+        "term": "DDF",
+        "definition": "“Drug and disease free.” Often used on personals ads."
+      },
+      {
+        "term": "Deal Breaker",
+        "definition": "A negative feature of a potential sex or romantic partner that overrides all of his/her other attractive qualities, and which makes him/her undesirable."
+      },
+      {
+        "term": "Debauchee",
+        "definition": "One who routinely engages in vice, particularly of the sexual variety.",
+        "synonyms": ["libertine", "rake", "roue"]
+      },
+      {
+        "term": "Deep Throating",
+        "definition": "When a penis is jammed down a person’s throat during fellatio."
+      },
+      {
+        "term": "Defecate",
+        "definition": "The act of excreting waste from the body.",
+        "synonyms": [
+          "drop a bomb",
+          "drop a load",
+          "drop the kids off at the pool",
+          "dump",
+          "make a deposit",
+          "pinch a loaf",
+          "poop",
+          "pop a squat",
+          "take a dump",
+          "take a shit"
+        ]
+      },
+      {
+        "term": "Degradation",
+        "definition": "A fetish for being psychologically degraded, or degrading a partner.",
+        "synonyms": ["erotic humiliation"]
+      },
+      {
+        "term": "Demimonde",
+        "definition": "A class of women known to be more promiscuous than the general population.",
+        "origins": "A French word once used to describe prostitutes."
+      },
+      {
+        "term": "Dendrophilia",
+        "definition": "A fetish for having sex with trees."
+      },
+      {
+        "term": "Denial",
+        "definition": "Refers to a few types of denial play, including orgasm denial, bathroom denial, sensory denial, food/water denial."
+      },
+      {
+        "term": "Dental Dam",
+        "definition": "A piece of latex or rubber stretched over a vagina or asshole during oral sex in order to prevent the transmission of STDs. One can be made by slicing a condom down the side and stretching the latex. Plastic wrap is a poor substitute, but it is better than nothing."
+      },
+      {
+        "term": "Devil's Threesome",
+        "definition": "A threesome involving two men and one woman. This is not the type of threesome most men fantasize about, but it is what most settle for."
+      },
+      {
+        "term": "Devotee",
+        "definition": "A person with a fetish for disabled people.",
+        "additional_info": "The two most common fetishes devotees have are abasiophilia and acrotomophilia."
+      },
+      {
+        "term": "Diaper Fetish",
+        "definition": "A common prop incorporated into age play or fetishes for infantilism, scat, watersports, humiliation, dominance, helplessness. Some believe this fetish develops early in life, when a child associates diapers with being loved and coddled. Extreme diaper fetishists make themselves incontinent so that they need to wear diapers constantly."
+      },
+      {
+        "term": "Dick",
+        "definition": "1. Penis. 2. A man who behaves as if he does all his thinking with his penis."
+      },
+      {
+        "term": "Dick Beater",
+        "definition": "An obsessive masturbator."
+      },
+      {
+        "term": "Dick Cheese",
+        "definition": "Smegma, which often accumulates under the foreskins of uncircumcised men. So named as it looks and smells like rotten cheese."
+      },
+      {
+        "term": "Dickery",
+        "definition": "Behaviors characteristic of a dick head."
+      },
+      {
+        "term": "Dick Face",
+        "definition": "One who is as unsavory and vulgar as a penis."
+      },
+      {
+        "term": "Dickhead",
+        "definition": "1. The head of a penis. 2. A man who thinks with his dick."
+      },
+      {
+        "term": "Dick Hole",
+        "definition": "1. The hole at the head of the penis through which fluids flow. 2. An orifice that may be penetrated by a dick."
+      },
+      {
+        "term": "Dick Juice",
+        "definition": "Semen."
+      },
+      {
+        "term": "Dick Milk",
+        "definition": "Semen."
+      },
+      {
+        "term": "Dick Lips",
+        "definition": "As opposed to someone who has dick-shaped lips, the word refers to someone whose lips look ideal for being wrapped around a dick.",
+        "synonyms": ["DSLs"]
+      },
+      {
+        "term": "Dick Slap",
+        "definition": "Slapping another person, usually in the cheek, with a dick. Often a derogatory act done during rough fellatio. Can also be performed with a dildo."
+      },
+      {
+        "term": "Dicktator",
+        "definition": "A penis that controls every aspect of a man’s life."
+      },
+      {
+        "term": "Dick Tickler",
+        "definition": "Gay man."
+      },
+      {
+        "term": "Dick-Tinted Glasses",
+        "definition": "A mindset that makes you see the world in terms of penises. Commonly worn by feminists who see phallic symbols in everything, construction workers who can turn any tool into a dick joke, pubescent boys, and promiscuous women."
+      },
+      {
+        "term": "Dick Wad",
+        "definition": "An impotent idiot."
+      },
+      {
+        "term": "Dick Weasel",
+        "definition": "An impotent idiot."
+      },
+      {
+        "term": "Dick Weed",
+        "definition": "An impotent idiot."
+      },
+      {
+        "term": "Dictator",
+        "definition": "A penis shaped like a potato that exercises total control over his dominion.",
+        "origins": "Will Ferrell."
+      },
+      {
+        "term": "Diddle",
+        "definition": "To fondle or finger."
+      },
+      {
+        "term": "Diesel Dyke",
+        "definition": "A butch lesbian.",
+        "synonyms": ["Van Dyke"]
+      },
+      {
+        "term": "Dike",
+        "definition": "A butch lesbian."
+      },
+      {
+        "term": "Dyke",
+        "definition": "A butch lesbian."
+      },
+      {
+        "term": "Dildo",
+        "definition": "Any phallic object used to penetrate the body in order to achieve sexual pleasure. Usually a sex toy made out of rubber, plastic, or glass. A dildo can be a vibrator, but not all vibrators are dildos. Generally though, dildos do not vibrate."
+      },
+      {
+        "term": "Dime Piece",
+        "definition": "On a scale of 1-10, a woman who rates as a perfect 10 in terms of physical beauty."
+      },
+      {
+        "term": "Dine at the Y",
+        "definition": "Cunnilingus."
+      },
+      {
+        "term": "Dine In",
+        "definition": "To have sex with one’s live-in partner.",
+        "usage": "“I think I will just dine in tonight.”"
+      },
+      {
+        "term": "Dingle Berries",
+        "definition": "Particles of excrement that cling to ass hair after a fart or as a result of inefficient ass wiping.",
+        "synonyms": ["barnacles", "chuffnuts", "klingons"]
+      },
+      {
+        "term": "DINK",
+        "definition": "“Double income, no kids.” Describes fun couples who often party and who are relatively wealthy due to their stable incomes and lack of children."
+      },
+      {
+        "term": "Dinner for Two",
+        "definition": "Simultaneous oral sex.",
+        "synonyms": ["69"]
+      },
+      {
+        "term": "Diphallia",
+        "definition": "A medical condition in which a man has two penises. It occurs in approximately 1 in every 5.5 million American men.",
+        "additional_info": "See The Double Dick Dude."
+      },
+      {
+        "term": "Dippoldism",
+        "definition": "A fetish, or paraphilia, in which pleasure is derived from spanking or physically abusing another person."
+      },
+      {
+        "term": "Dip Shit",
+        "definition": "One who is so dumb that it seems his brain was dipped in excrement."
+      },
+      {
+        "term": "Dirty Harry",
+        "definition": "A cock that is filthy and surrounded by a mane of pubic hair (and possibly featuring a prominent mole), that is still sexually appealing due to its overt masculinity."
+      },
+      {
+        "term": "Dirty Knees",
+        "definition": "What a person has after performing fellatio."
+      },
+      {
+        "term": "Dirty Pillows",
+        "definition": "Breasts.",
+        "origins": "Stephen King's Carrie."
+      },
+      {
+        "term": "Dirty Sanchez",
+        "definition": "When a man pulls out from anal sex and wipes his dick on his partner’s upper lip, giving her a thin, shit mustache."
+      },
+      {
+        "term": "Dirty Swirly",
+        "definition": "While penetrating someone from behind in the bathroom, you dip her head in the toilet and flush."
+      },
+      {
+        "term": "Discipline",
+        "definition": "1. When a dominant partner trains a submissive on fetish protocol. 2. Punishment inflicted on a submissive for disobedience."
+      },
+      {
+        "term": "Disco Stick",
+        "definition": "A dick on the dance floor, or one belonging to a man with rhythm.",
+        "origins": "Lady Gaga's song, \"Love Game.\""
+      },
+      {
+        "term": "Dishabille",
+        "definition": "To be carelessly dressed, or partially undressed. The state of one's clothes right before or after sex.",
+        "origins": "From the French word meaning \"to undress.\""
+      },
+      {
+        "term": "Dishonorable Discharge",
+        "definition": "When a man ejaculates in a shameful manner. This can include premature ejaculation or reaching climax while masturbating to embarrassing porn just as another person walks in the room."
+      },
+      {
+        "term": "Divorce",
+        "definition": "\"From the Latin word meaning to rip out a man's genitals through his wallet.\" —Robin Williams."
+      },
+      {
+        "term": "DJ Diddles",
+        "definition": "When a person works a woman's clitoris like a turn table, constantly searching for the perfect rhythm.",
+        "origins": "Dane Cook."
+      },
+      {
+        "term": "DNA",
+        "definition": "“Dick in ass.” Anal sex."
+      },
+      {
+        "term": "DND",
+        "definition": "“Drug and disease free,” often used on dating profiles where the end game is casual sex."
+      },
+      {
+        "term": "Doggy Style",
+        "definition": "A common sex act in which the man penetrates his partner from behind."
+      },
+      {
+        "term": "Dogs in a Bathtub",
+        "definition": "When a man attempts to stuff his testicles in his partner’s anus. So named as it is as difficult to keep nuts in an ass as it is to hold two dogs in a bathtub."
+      },
+      {
+        "term": "Dog Training",
+        "definition": "When a submissive partner is treated like a dog. A common form of role playing in BDSM."
+      },
+      {
+        "term": "Dog Treat",
+        "definition": "Slathering peanut butter on your genitals then having your dog lick it off."
+      },
+      {
+        "term": "The Dolphin",
+        "definition": "An absurd sex act in which the man starts off penetrating the woman from behind. Then, without any warning, he harpoons his dick into her ass, causing her to make an \"eek eek\" sound, not unlike a dolphin's distress call. The woman will then flop around in bed like a dolphin desperate to get back into the safety of the sea."
+      },
+      {
+        "term": "Dominance and Submission",
+        "definition": "BDSM.",
+        "abbreviation": "D&S"
+      },
+      {
+        "term": "Dominant",
+        "definition": "The partner who enjoys control in a fetishistic relationship.",
+        "synonyms": ["daddy", "dominatrix", "master", "top"]
+      },
+      {
+        "term": "Dominatrix",
+        "definition": "A female dominant in a fetishistic relationship."
+      },
+      {
+        "term": "Donkey Punch",
+        "definition": "An absurd sex act in which a man punches his partner in the back of the head as he reaches climax in order to make her muscles tighten."
+      },
+      {
+        "term": "Donkey Show",
+        "definition": "The mythic show that occurs in seedy bars of developing countries in which a woman is penetrated by a donkey."
+      },
+      {
+        "term": "Donkey Rigged",
+        "definition": "Hung like a horse."
+      },
+      {
+        "term": "Donut Puncher",
+        "definition": "Penis."
+      },
+      {
+        "term": "Doorknob",
+        "definition": "1. Slut. Everyone gets a turn.",
+        "synonyms": ["community bike"],
+        "additional_definitions": "2. A butt plug shaped like a doorknob."
+      },
+      {
+        "term": "Dopplebangers",
+        "definition": "Sexual partners who look like siblings."
+      },
+      {
+        "term": "Dose",
+        "definition": "An STD. Used around WWII, usually to refer to gonorrhea or chlamydia."
+      },
+      {
+        "term": "Dote",
+        "definition": "To express lavish affection or attention toward another."
+      },
+      {
+        "term": "Double Coyote Ugly",
+        "definition": "When you chew off the arm that is trapped under a troll's sleeping body in order to escape her lair, then you chew off your other arm to keep the troll from identifying you as the one-armed man who fulfilled all of her troll fantasies."
+      },
+      {
+        "term": "Double Sided Dildo",
+        "definition": "A double headed dildo meant for simultaneous insertion by two people."
+      },
+      {
+        "term": "Doraphilia",
+        "definition": "A fetish for leather, fur, hair, or skin.",
+        "similar": "hyphephilia"
+      },
+      {
+        "term": "Double Bagger",
+        "definition": "A partner who is so promiscuous that you assume she has an STD, or who would have your child if she gets pregnant, but who is still attractive enough to risk having sex with.",
+        "synonym": "two bagger"
+      },
+      {
+        "term": "Double Bagging",
+        "definition": "Wearing two condoms for extra protection against contracting an STD or having an unplanned pregnancy with a promiscuous woman. Ironically, the friction between the two condoms actually makes them more likely to break."
+      },
+      {
+        "term": "Double Bedder",
+        "definition": "1. Having sex twice in one day with two different people. 2. A sex partner so attractive that you want to have sex with her twice in the same night, or with two mattresses beneath you to absorb the massive pounding you want to give her."
+      },
+      {
+        "term": "Double Blowjob",
+        "definition": "When two people perform fellatio on the same man."
+      },
+      {
+        "term": "Double Fisting",
+        "definition": "Inserting two hands into the vagina or asshole."
+      },
+      {
+        "term": "Double Header",
+        "definition": "1. Having sex with two people in one day. 2. A 69 with two men. 3. A woman who starts you off with fellatio, has sex with you, then finishes you off with her mouth. 4. Women performing fellatio on the same man."
+      },
+      {
+        "term": "Double Shot",
+        "definition": "When a man ejaculates twice during sex."
+      },
+      {
+        "term": "Douche",
+        "definition": "Flushing out a vagina or ass with a solution meant to mask various odors and tastes."
+      },
+      {
+        "term": "Douche Bag",
+        "definition": "An asshole who tries to mask his inner filthiness through superficial means: flashy clothes, too much cologne, steroid muscles..."
+      },
+      {
+        "term": "Douchebaguette",
+        "definition": "A female douche bag."
+      },
+      {
+        "term": "Douche Cannon/Nozzle",
+        "definition": "A penis. The only tool a douche bag knows how to operate."
+      },
+      {
+        "term": "Douche Packer",
+        "definition": "A lesbian who wears a strap-on."
+      },
+      {
+        "term": "Down Low",
+        "definition": "1. Keeping an affair low key in order to avoid detection. 2. A homosexual who is reserved when it comes to who he opens up to about being gay.",
+        "abbreviation": "DL"
+      },
+      {
+        "term": "Downtown",
+        "definition": "Vagina."
+      },
+      {
+        "term": "Doxy",
+        "definition": "A promiscuous woman.",
+        "see": "slut"
+      },
+      {
+        "term": "DP",
+        "definition": "“Double penetration.” When a woman is simultaneously penetrated anally and vaginally.",
+        "synonyms": ["sandwich"]
+      },
+      {
+        "term": "Dracophilia",
+        "definition": "A fetish for dragons."
+      },
+      {
+        "term": "Drag",
+        "definition": "The costumes a cross-dresser wears to inhabit another gender."
+      },
+      {
+        "term": "Drag King",
+        "definition": "A woman who adopts a male persona, usually as part of a stage act."
+      },
+      {
+        "term": "Drag Queen",
+        "definition": "A man who adopts a female persona as a stage act. Drag queens cover every area of the transgendered spectrum, from cross-dressers to transsexuals."
+      },
+      {
+        "term": "Dream of Cream",
+        "definition": "A wet dream."
+      },
+      {
+        "term": "Drilldo",
+        "definition": "A sex machine made by attaching a dildo to the end of a drill, creating a sex toy that can spin at a dangerously fast rate."
+      },
+      {
+        "term": "Dry Humping",
+        "definition": "What two people do when they have yet to figure out how to have sex.",
+        "synonyms": ["outercourse"]
+      },
+      {
+        "term": "Dry Spell",
+        "definition": "An extended period without sex.",
+        "synonym": "Slump"
+      },
+      {
+        "term": "DSLs",
+        "definition": "“Dick sucking lips.” Usually refers to plump, moist, red lips."
+      },
+      {
+        "term": "DTF",
+        "definition": "“Down to fuck.” A woman or man who is ready for sex.",
+        "origins": "MTV’s Jersey Shore."
+      },
+      {
+        "term": "D Train",
+        "definition": "Penis."
+      },
+      {
+        "term": "Dual Airbags",
+        "definition": "Breasts."
+      },
+      {
+        "term": "Dudevorce",
+        "definition": "When two guys end their friendship, usually over a woman."
+      },
+      {
+        "term": "DUFF",
+        "definition": "“Designated ugly fat friend.” There is one in every group of female friends. She joins the group of hot girls to meet men who would otherwise be inaccessible. Her friends allow her in the group as she makes them look better by contrast and she provides someone to make fun of behind her back. When approaching a group with a DUFF, guys should always have a \"janitor\" available to take out the trash."
+      },
+      {
+        "term": "Dumb Ass",
+        "definition": "If you do not know what these words mean, they refer to you.",
+        "aliases": ["Fuck", "Shit"]
+      },
+      {
+        "term": "Dump",
+        "definition": "1. To break up with a romantic partner. 2. To defecate."
+      },
+      {
+        "term": "Dust Under the Bed",
+        "definition": "Sex so good it spills onto the floor. Sex so thorough and complete, you do not miss a thing."
+      },
+      {
+        "term": "Dutch",
+        "definition": "When both partners pay their part on a date.",
+        "usage": "Asking a woman to go dutch on a date is a great way to ensure there will never be a second date."
+      },
+      {
+        "term": "Dutch Girl",
+        "definition": "Lesbian."
+      },
+      {
+        "term": "Dutch Oven",
+        "definition": "When you fart while in bed with a partner, then pull the covers over both of you."
+      },
+      {
+        "term": "Dutch Rudder",
+        "definition": "While a man grips his own penis, another person moves the masturbator's forearm, steering the dick ship toward climax cove."
+      },
+      {
+        "term": "Dutch Treat",
+        "definition": "When attempting a Dutch oven, you accidentally defecate in the bed."
+      },
+      {
+        "term": "Duva",
+        "definition": "A dude who acts like a diva.",
+        "origins": "Lisa Lampanelli."
+      },
+      {
+        "term": "DVDA",
+        "definition": "“Double-vaginal, double-anal.” When a woman has two phalluses in her vagina and two in her anus simultaneously.",
+        "origins": "The film, Orgazmo."
+      },
+      {
+        "term": "Dyscalligynia",
+        "definition": "A dislike or hatred of beautiful women."
+      },
+      {
+        "term": "Dysmorphophilia",
+        "definition": "A fetish for mentally or physically impaired partners.",
+        "similar": "teratophilia"
+      },
+      {
+        "term": "Dyspareunia",
+        "definition": "Difficult, challenging, or painful sex."
+      }
     ]
+  }
 }
