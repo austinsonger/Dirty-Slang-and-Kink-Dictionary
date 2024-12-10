@@ -1,65 +1,227 @@
 {
-    "dictionary": [
-        {
-            "term": "Eager Beaver",
-            "definition": "1. A horny woman. 2. The appendage sticking off the shaft of some vibrators, providing clitoral stimulation. Some are shaped like the tail of a beaver or like rabbit ears. The name of vibrators with such a feature."
-        },
-        {
-            "term": "Earmuffs",
-            "definition": "When a woman’s thighs are wrapped around a man’s ears during cunnilingus."
-        },
-        {
-            "term": "Earn One’s Redwings",
-            "definition": "The bloody badge of honor a man wears on his upper lip after performing cunnilingus on a menstruating woman."
-        },
-        {
-            "term": "Eat Out",
-            "definition": "Cunnilingus."
-        },
-        {
-            "term": "Ecouteurism",
-            "definition": "A fetish for eavesdropping on others having sex."
-        },
-        {
-            "term": "Ecstasy",
-            "definition": "1. A state of rapture, often used to describe the moment one reaches sexual climax. 2. The name of the recreational street drug MDMA, which induces a euphoric state."
-        },
-        {
-            "term": "Effie",
-            "definition": "An effeminate homosexual man."
-        },
-        {
-            "term": "Eiffel Tower",
-            "definition": "During a devil’s threesome when the man penetrating the woman doggy style and the man receiving fellatio high-five each other."
-        },
-        {
-            "term": "Ejaculate",
-            "definition": "Synonyms: big bang, blow your load, bust your nut, cream, cum, drop your load, fire a shot, get off, get your rocks off, number three, nut, pop a nut, shoot, shoot your wad, spill one's seed, squirt."
-        },
-        {
-            "term": "Electra Complex",
-            "definition": "A daughter's quasi-sexual competition with her mother for her father's affection. The female version of the Oedipus complex. Origins: Carl Jung."
-        },
-        {
-            "term": "Electric Chair",
-            "definition": "When a partner is bound to a chair while receiving electro-stimulation."
-        },
-        {
-            "term": "Electrophilia",
-            "definition": "A fetish for electricity, which usually involves electro-stimulation."
-        },
-        {
-            "term": "Electro-Stimulation",
-            "definition": "Electric stimulation, particularly on the genitals and erogenous zones."
-        },
-        {
-            "term": "Emetophilia",
-            "definition": "A fetish for vomiting or watching others vomit, particularly after gagging during fellatio."
-        },
-        {
-            "term": "Emotional Dump",
-            "definition": "Unloading all of your emotional baggage on a friend or on a social networking website like Facebook."
-        }
-
+  "DirtyDictionary": {
+    "E": [
+      {
+        "term": "Eager Beaver",
+        "definition": "1. A horny woman. 2. The appendage sticking off the shaft of some vibrators, providing clitoral stimulation. Some are shaped like the tail of a beaver or like rabbit ears. The name of vibrators with such a feature."
+      },
+      {
+        "term": "Earmuffs",
+        "definition": "When a woman’s thighs are wrapped around a man’s ears during cunnilingus."
+      },
+      {
+        "term": "Earn One’s Redwings",
+        "definition": "The bloody badge of honor a man wears on his upper lip after performing cunnilingus on a menstruating woman."
+      },
+      {
+        "term": "Eat Out",
+        "definition": "Cunnilingus."
+      },
+      {
+        "term": "Ecouteurism",
+        "definition": "A fetish for eavesdropping on others having sex."
+      },
+      {
+        "term": "Ecstasy",
+        "definition": "1. A state of rapture, often used to describe the moment one reaches sexual climax. 2. The name of the recreational street drug MDMA, which induces a euphoric state."
+      },
+      {
+        "term": "Effie",
+        "definition": "An effeminate homosexual man."
+      },
+      {
+        "term": "Eiffel Tower",
+        "definition": "During a devil’s threesome when the man penetrating the woman doggy style and the man receiving fellatio high-five each other. The woman’s back forms the observation deck of the Eiffel Tower between the two men who act as the main support beams with their hands forming the top of this architectural marvel. This often occurs when both guys catch each other’s eyes and must high-five to erase any suspicions of homosexuality."
+      },
+      {
+        "term": "Ejaculate",
+        "definition": "",
+        "synonyms": [
+          "big bang",
+          "blow your load",
+          "bust your nut",
+          "cream",
+          "cum",
+          "drop your load",
+          "fire a shot",
+          "get off",
+          "get your rocks off",
+          "number three",
+          "nut",
+          "pop a nut",
+          "shoot",
+          "shoot your wad",
+          "spill one's seed",
+          "squirt"
+        ]
+      },
+      {
+        "term": "Electra Complex",
+        "definition": "A daughter's quasi-sexual competition with her mother for her father's affection. The female version of the Oedipus complex.",
+        "origins": "Carl Jung"
+      },
+      {
+        "term": "Electric Chair",
+        "definition": "When a partner is bound to a chair while receiving electro-stimulation."
+      },
+      {
+        "term": "Electrophilia",
+        "definition": "A fetish for electricity, which usually involves electro-stimulation."
+      },
+      {
+        "term": "Electro-Stimulation",
+        "definition": "Electric stimulation, particularly on the genitals and erogenous zones. Used more to induce pleasure by stimulating nerves and muscles as opposed to the BDSM practice of inducing pain via varying degrees of electrical shocks.",
+        "aliases": ["E-Stem", "Electrosex"]
+      },
+      {
+        "term": "Emetophilia",
+        "definition": "A fetish for vomiting or watching others vomit, particularly after gagging during fellatio.",
+        "synonyms": ["vomit fetish"]
+      },
+      {
+        "term": "Emotional Dump",
+        "definition": "Unloading all of your emotional baggage on a friend or on a social networking website like Facebook."
+      },
+      {
+        "term": "Endytophilia",
+        "definition": "A fetish for sexual partners who remain clothed."
+      },
+      {
+        "term": "Energizer Bunny",
+        "definition": "A person who keeps going and going during sex."
+      },
+      {
+        "term": "Enema",
+        "definition": "The process of filling the colon with water or some other fluid. This can be done to relieve constipation, to clean out the cavity before anal sex, or simply for the erotic enjoyment of the sensation."
+      },
+      {
+        "term": "Engayed",
+        "definition": "A gay couple that is engaged."
+      },
+      {
+        "term": "Ephebophilia",
+        "definition": "A paraphilia involving an attraction to teens or mid to late adolescents generally between the ages of 15-19."
+      },
+      {
+        "term": "Eproctolagniac",
+        "definition": "A fetish for farts.",
+        "synonyms": ["flatulophilia"]
+      },
+      {
+        "term": "Erection",
+        "definition": "When a penis becomes engorged with blood.",
+        "synonyms": [
+          "bone",
+          "boner",
+          "bone-on",
+          "chubby",
+          "flagpole",
+          "hard",
+          "hard-on",
+          "morning wood",
+          "pants pusher",
+          "pitch a tent",
+          "riser",
+          "rock python",
+          "salute",
+          "semi",
+          "steely dan",
+          "stiff",
+          "stiffy",
+          "throbber",
+          "wood",
+          "woody"
+        ]
+      },
+      {
+        "term": "Erogenous",
+        "definition": "Arousing sexual desire."
+      },
+      {
+        "term": "Erogenous Zone",
+        "definition": "Parts of the body sensitive to sexual stimulation."
+      },
+      {
+        "term": "Erotographomania",
+        "definition": "A fetish for writing, particularly love poems or letters."
+      },
+      {
+        "term": "Erotomania",
+        "definition": "The psychological delusion in which the afflicted person believes a stranger, who is often famous or has high status, is in love with him or her."
+      },
+      {
+        "term": "Erotophobia",
+        "definition": "Fear of expressing or experiencing sexual desires."
+      },
+      {
+        "term": "Erotophonophilia",
+        "definition": "A fetish for murder. A common disorder among serial killers."
+      },
+      {
+        "term": "Eskimo Brothers",
+        "definition": "Men united by the fraternal bond of having had sex with the same woman."
+      },
+      {
+        "term": "Esposo",
+        "definition": "Spanish for husband or wife.",
+        "additional_definitions": "2. Spanish for handcuffs."
+      },
+      {
+        "term": "Estrus",
+        "definition": "A state of sexual excitability and receptivity in women due to hormonal shifts caused by ovulation.",
+        "synonyms": ["horny", "in heat"]
+      },
+      {
+        "term": "Etch-A-Sketch",
+        "definition": "Drawing a smile on a woman’s face by twisting her nipples like the knobs of an Etch-A-Sketch."
+      },
+      {
+        "term": "Eunoterpsia",
+        "definition": "The idea that pursuing sexual pleasure is the meaning of life."
+      },
+      {
+        "term": "European Steamboat",
+        "definition": "Immediately after an anal creampie, the top buries his face in the bottom’s ass while the bottom farts out the cum, misting the top’s face in an aerosol of his semen and fecal matter."
+      },
+      {
+        "term": "E-void",
+        "definition": "Ignoring someone's attempts to flirt via various electronic mediums: text, email, Facebook, Twitter…"
+      },
+      {
+        "term": "Excrement",
+        "definition": "",
+        "synonyms": [
+          "alley apple",
+          "baby ruth",
+          "ca-ca",
+          "crap",
+          "dirt",
+          "doo-doo",
+          "dung",
+          "feces",
+          "poop",
+          "poo-poo",
+          "shit",
+          "scat",
+          "turd"
+        ]
+      },
+      {
+        "term": "Exhibitionism",
+        "definition": "A fetish for being a public spectacle. This often manifests in streaking, public sex, or flashing. A common trait among porn stars."
+      },
+      {
+        "term": "Ex-hole",
+        "definition": "An ex who magically becomes an asshole after a breakup."
+      },
+      {
+        "term": "Expiration Dating",
+        "definition": "A relationship that has a definite terminal date."
+      },
+      {
+        "term": "Eye Fucking",
+        "definition": "Staring at someone while imagining fucking them. This has nothing to do with actually penetrating the eye socket."
+      }
     ]
+  }
 }
