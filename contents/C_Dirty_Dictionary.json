@@ -1,64 +1,504 @@
 {
-    "dictionary": [
-        {
-            "term": "Cad",
-            "definition": "A man who aggressively pursues his self interests, particularly when it comes to sex, with little regard for others."
-        },
-        {
-            "term": "Cage Fetish",
-            "definition": "A fetish for being confined to a small space. This often manifests as a sub being locked in a cage, box, or a closet."
-        },
-        {
-            "term": "Callipygian",
-            "definition": "Possessing a beautifully shaped buttocks."
-        },
-        {
-            "term": "Camel Toe",
-            "definition": "A vagina wedgy. Also, the impression of a woman\u2019s vagina as seen through tight pants."
-        },
-        {
-            "term": "Candaulism",
-            "definition": "A fetish for showing off your partner, or images of him/her, to others."
-        },
-        {
-            "term": "Catcher",
-            "definition": "The receiving partner during anal sex. Usually refers to the bottom in a gay couple."
-        },
-        {
-            "term": "Catheterophila",
-            "definition": "A fetish for having catheters inserted."
-        },
-        {
-            "term": "Castration",
-            "definition": "The removal of the testicles or ovaries, often to prevent fertility and/or to reduce the effects the hormones produced by these glands have on behavior."
-        },
-        {
-            "term": "Cat O' Nine Tails",
-            "definition": "A multi-tailed whip, often used in fetish play."
-        },
-        {
-            "term": "Caverject",
-            "definition": "The brand name for an injectable drug used to stimulate an erection."
-        },
-        {
-            "term": "Champagne Room",
-            "definition": "A private room in a strip club that can be rented out for extended periods of time."
-        },
-        {
-            "term": "Charity",
-            "definition": "Engaging in sexual activity with someone who will get far more out of the experience than you will."
-        },
-        {
-            "term": "Chastity Belt",
-            "definition": "A medieval device that forcibly guards a woman's virginity."
-        },
-        {
-            "term": "Chesticles",
-            "definition": "Boobs."
-        },
-        {
-            "term": "Cherry",
-            "definition": "A woman\u2019s virginity. More specifically, the hymen, which is often ruptured during vaginal penetration."
-        }
+  "DirtyDictionary": {
+    "C": [
+      {
+        "term": "Cad",
+        "definition": "A man who aggressively pursues his self interests, particularly when it comes to sex, with little regard for others. Not the man a woman wants to date, but the rogue she subconsciously wants to have sex with, particularly when she is ovulating.",
+        "synonyms": ["alpha male", "rogue", "rake", "rascal", "scoundrel", "scalawag"]
+      },
+      {
+        "term": "Cage Fetish",
+        "definition": "A fetish for being confined to a small space. This often manifests as a sub being locked in a cage, box, or a closet. The caged sub is then teased, taunted, tortured, and/or ignored by the dom."
+      },
+      {
+        "term": "Callipygian",
+        "definition": "Possessing a beautifully shaped buttocks."
+      },
+      {
+        "term": "Camel Toe",
+        "definition": "A vagina wedgy. Also, the impression of a woman’s vagina as seen through tight pants. A common occurrence among large women who wear small clothes."
+      },
+      {
+        "term": "Candaulism",
+        "definition": "A fetish for showing off your partner, or images of him/her, to others."
+      },
+      {
+        "term": "The Cardinal George",
+        "definition": "Any form of outercourse or frottage.",
+        "origins": "Named after the Archbishop of Chicago, Francis Eugene George, who is outspoken in his opposition to gay marriage."
+      },
+      {
+        "term": "Carpet Muncher",
+        "definition": "A lesbian as opposed to bugs that feed on actual carpet."
+      },
+      {
+        "term": "Casting Couch",
+        "definition": "Couch or space where women are coaxed into having sex by being promised a job, particularly a role in a movie or porno. A common device in “amateur” porn where the director pretends he is testing a woman out for the job."
+      },
+      {
+        "term": "Catcher",
+        "definition": "The receiving partner during anal sex. Usually refers to the bottom in a gay couple."
+      },
+      {
+        "term": "Catheterophila",
+        "definition": "A fetish for having catheters inserted."
+      },
+      {
+        "term": "Cat String Theory",
+        "definition": "The idea that women are only interested in men they cannot pin down or corner, in the same way a cat is only interested in playing with a string so long as it is dangling just out of the animal's reach.",
+        "origins": "Erik Von Markovik."
+      },
+      {
+        "term": "Castration",
+        "definition": "The removal of the testicles or ovaries, often to prevent fertility and/or to reduce the effects the hormones produced by these glands have on behavior. In humans, this often refers to cutting off the penis as well."
+      },
+      {
+        "term": "Castration Fetish",
+        "definition": "A body modification paraphilia for being castrated, for castrating others, or for people who are castrated. Some people who have their sexual organs removed still have a fully functional sex life when they go on hormone replacement therapy."
+      },
+      {
+        "term": "Cat O' Nine Tails",
+        "definition": "A multi-tailed whip, often used in fetish play."
+      },
+      {
+        "term": "Caverject",
+        "definition": "The brand name for an injectable drug used to stimulate an erection. Used by some cock stars when they begin to have trouble performing during porn scenes."
+      },
+      {
+        "term": "Champagne Room",
+        "definition": "A private room in a strip club that can be rented out for extended periods of time, and which often comes with a complimentary bottle of champagne. Despite what a stripper tells you, and the inflated cost of renting such a room, there is no sex in the champagne room, unless of course you are in a brothel or a seedy strip club."
+      },
+      {
+        "term": "Charity",
+        "definition": "Engaging in sexual activity with someone who will get far more out of the experience than you will."
+      },
+      {
+        "term": "Chastity Belt",
+        "definition": "A medieval device that forcibly guards a woman's virginity. These usually resemble metal underwear locked around a woman's waist. Small slits in the metal strips allow the woman to perform various bodily functions, but these are not large enough to admit a penis.",
+        "similar": "male chastity belt"
+      },
+      {
+        "term": "Cheese Log",
+        "definition": "The result of using Cheeze Whiz as anal lube."
+      },
+      {
+        "term": "Chemical Castration",
+        "definition": "Medication intended to reduce a man's overactive libido without actually castrating him. Often administered to sex addicts and sex offenders."
+      },
+      {
+        "term": "Chesticles",
+        "definition": "Boobs."
+      },
+      {
+        "term": "Cherry",
+        "definition": "A woman’s virginity. More specifically, the hymen, which is often ruptured during vaginal penetration. 'Popping her cherry' refers to taking a female's virginity."
+      },
+      {
+        "term": "Chick",
+        "definition": "An attractive, young woman."
+      },
+      {
+        "term": "Chicken",
+        "definition": "A young male prostitute.",
+        "synonyms": ["Gigolo"]
+      },
+      {
+        "term": "Chick-fil-A",
+        "definition": "When a man is penetrated anally by a dildo, usually worn as a strap-on by his female lover.",
+        "synonyms": ["pegging"],
+        "usage": "“Her boyfriend’s kinda homophobic, but I hear he loves Chick-fil-A.”",
+        "origins": "Dan Savage's sex advice column, Savage Love."
+      },
+      {
+        "term": "Chicks Before Dicks",
+        "definition": "The mindset that a woman’s female friends take priority over the man she is dating at the time."
+      },
+      {
+        "term": "Chicks with Dicks",
+        "definition": "Pre-op male-to-female transsexuals."
+      },
+      {
+        "term": "Chicken Hawk",
+        "definition": "An older gay man who preys on young and feminine men."
+      },
+      {
+        "term": "Choker",
+        "definition": "1. A large penis. 2. A collar often worn in the BDSM scene to signify ownership in much the same way a wedding ring does in the vanilla community. These collars are often used on submissive partners during fetishistic acts."
+      },
+      {
+        "term": "Choreophilia",
+        "definition": "A fetish for dancing, or dry humping on the dance floor, to climax."
+      },
+      {
+        "term": "Chrematistophilia",
+        "definition": "A fetish for paying for sex, or for being robbed or blackmailed by a sex partner."
+      },
+      {
+        "term": "Chrysophilia",
+        "definition": "A fetish for gold or gold colored objects.",
+        "similar": "timophilia"
+      },
+      {
+        "term": "Chubby Chaser",
+        "definition": "One who actively pursues obese sex partners because he genuinely is attracted to them or because he believes they are easier to coax into having sex.",
+        "synonyms": ["hogger", "whaler", "whalesman"]
+      },
+      {
+        "term": "Chuffnuts",
+        "definition": "1. Pieces of toilet paper or excrement that cling to a person's asshole.",
+        "synonyms": ["barnacles", "dingle berries", "klingons"]
+      },
+      {
+        "term": "Churning Butter",
+        "definition": "Male masturbation."
+      },
+      {
+        "term": "Cinnamon Muff",
+        "definition": "A vagina covered in light red pubic hair.",
+        "synonyms": ["fire crotch"],
+        "origins": "Zach Galifianakis."
+      },
+      {
+        "term": "Cisgender",
+        "definition": "When a person's body does not match their gender."
+      },
+      {
+        "term": "Cleveland Steamer",
+        "definition": "An absurd sex act in which you defecate on your partner’s chest, then smear the feces by sliding your ass back and forth."
+      },
+      {
+        "term": "Clitoris, Clit",
+        "definition": "The bundle of nerve endings at the hood of the vagina that can produce anorgasm when properly stimulated. Some men believe it to be a myth. This is also the part of a woman’s anatomy that grows into a micro-penis when she experiences an influx of testosterone from steroids or a hormone imbalance. Porn star, Vanessa Del Rio, was notorious for her enlarged clitoris after she took steroids to build muscle.",
+        "synonyms": ["button", "man in the canoe", "nub"]
+      },
+      {
+        "term": "Cloaca",
+        "definition": "1. An anatomical feature in some animals, that is the only opening for the intestinal, urinary, and genital tracts. Basically an asshole, urethra, and vagina all rolled into one. Common in amphibians, birds, reptiles, and monotremes. 2. An outhouse. 3. A sewer."
+      },
+      {
+        "term": "Closet Freak",
+        "definition": "One who inhabits an alter-ego during sex that is in stark contrast to her public persona.",
+        "synonyms": ["a lady in the street but a freak in the bed"]
+      },
+      {
+        "term": "Cluster Fuck",
+        "definition": "1. An orgy. 2. A disorganization of people and bodies. Often used to describe traffic jams or a mess that must be sorted out."
+      },
+      {
+        "term": "Cock",
+        "definition": "1. Penis. 2. A man who behaves like a dick."
+      },
+      {
+        "term": "Cockaholic",
+        "definition": "A promiscuous woman or gay man.",
+        "synonyms": ["slut"]
+      },
+      {
+        "term": "Cock and Ball Torture, CBT, C & B Torture",
+        "definition": "A type of sadomasochistic play in which a dominate partner inflicts various types of pain on a submissive partner, who is typically restrained during the session. The type of torture is only limited by a dominate partner's imagination and can involve any number of things: stomping, flicking, pinching, burning, clothes pins, scratching, stretching, piercing, pulling, shocking, flattening, nailing."
+      },
+      {
+        "term": "Cock-a-Thon",
+        "definition": "A gang bang with multiple dicks and one or few women."
+      },
+      {
+        "term": "Cock Block",
+        "definition": "1. Preventing a couple from having sex. 2. The jealous and evil person who performs such a nefarious act."
+      },
+      {
+        "term": "Cock Hungry",
+        "definition": "Possessing a powerful sexual appetite for sex with men, as opposed to one specific man."
+      },
+      {
+        "term": "Cock/Crotch Jockey",
+        "definition": "A petite person who aggressively rides large cocks, as though sex was a race to reach an orgasm in record time."
+      },
+      {
+        "term": "Cock Ring",
+        "definition": "A ring that is slipped over an erection to the base of the penis in order to slow the loss of blood, thus maintaining an erection longer. These sex toys are made out of a variety of materials, including metal and rubber."
+      },
+      {
+        "term": "Cocksman",
+        "definition": "A sexually accomplished male who wields his cock like a professional."
+      },
+      {
+        "term": "Cock/Penis Sheath/Sleeve",
+        "definition": "A prosthetic attachment meant to increase the size of a man's penis. While these sex toys can turn small men into cock stars, they often dull the sensation to the point of causing the man to lose his erection."
+      },
+      {
+        "term": "Cock Snot",
+        "definition": "Semen."
+      },
+      {
+        "term": "Coerce",
+        "definition": "Persuading a person to do something against her will, or without her consent."
+      },
+      {
+        "term": "Cojones",
+        "definition": "Testicles."
+      },
+      {
+        "term": "Coke Dick",
+        "definition": "An inability to achieve or maintain an erection due to an abundance of cocaine in the system.",
+        "similar": "Whiskey Dick"
+      },
+      {
+        "term": "Comarital",
+        "definition": "An extramarital affair with a partner’s consent."
+      },
+      {
+        "term": "Commando",
+        "definition": "The act of not wearing underwear beneath your clothes.",
+        "usage": "“All of my boxers are crusted with semen so I am going commando today.”"
+      },
+      {
+        "term": "Commercial Sex Worker, CSW",
+        "definition": "Prostitute."
+      },
+      {
+        "term": "Community Bike",
+        "definition": "A promiscuous woman. Everyone gets to ride her.",
+        "synonyms": ["slut", "doorknob"]
+      },
+      {
+        "term": "Condom",
+        "definition": "Origins: From the Latin \"condon,\" meaning \"receptacle.\"",
+        "synonyms": [
+          "balloon",
+          "bachelor's tuxedo",
+          "candy wrapper",
+          "close combat sock",
+          "diving suit",
+          "eel skin",
+          "goulashes",
+          "hazmat suit",
+          "jimmy",
+          "joy bag",
+          "latex spacesuit",
+          "love glove",
+          "one-piece overcoat",
+          "pipe pull-over",
+          "plastic wrap",
+          "prophylactic",
+          "raincoat",
+          "rubber",
+          "rubber glove",
+          "scumbag",
+          "sheath",
+          "shower cap",
+          "slicker",
+          "snake skin",
+          "space suit",
+          "sparring mitt",
+          "tail sheath",
+          "tube sock",
+          "wet suit"
+        ]
+      },
+      {
+        "term": "Condom Dispenser",
+        "definition": "A promiscuous woman, albeit a promiscuous woman who brings her own condoms."
+      },
+      {
+        "term": "Concupiscent",
+        "definition": "Lustful or horny."
+      },
+      {
+        "term": "Congenital Hypoplasia",
+        "definition": "When the penile glands are stuck to the pubic bone, resulting in a micropenis."
+      },
+      {
+        "term": "Conjugal",
+        "definition": "Of or related to marriage. Most often used in the phrase, \"conjugal visit,\" which refers to when a prisoner is allowed to have sex with his significant other."
+      },
+      {
+        "term": "Consensual",
+        "definition": "An activity that is done with the full agreement of all parties involved. Often what separates sex acts from sex crimes."
+      },
+      {
+        "term": "Coochi, coochy, cooter",
+        "definition": "Vagina."
+      },
+      {
+        "term": "Copesmate",
+        "definition": "A partner with whom you cope, or struggle. A lover with whom you regularly fight."
+      },
+      {
+        "term": "Coprolalia",
+        "definition": "The compulsive use of obscene language."
+      },
+      {
+        "term": "Coprophagia",
+        "definition": "A fetish for consuming human feces."
+      },
+      {
+        "term": "Coprophilia",
+        "definition": "A fetish for playing with, handling, or rubbing human feces on oneself."
+      },
+      {
+        "term": "Cornuto",
+        "definition": "A cuckold."
+      },
+      {
+        "term": "Cosplay",
+        "definition": "\"Costume play.\" Often a type of role playing that fulfills sexual fantasies revolving around animated characters."
+      },
+      {
+        "term": "Coulrophilia",
+        "definition": "A fetish for clowns or other types of street performers.",
+        "synonyms": ["Bozophilia", "clown paraphilia"],
+        "history": "One of the pioneers of \"Clown Porn\" was the adult actress, Hollie Stevens."
+      },
+      {
+        "term": "Counting Games",
+        "definition": "While being spanked, flogged, or whipped, the submissive partner is required to keep count of the number of strikes. Often involves some variation of the phrase, “Thank you master, may I have another.”"
+      },
+      {
+        "term": "Cougar",
+        "definition": "A woman who is beyond her physical prime, and who is often far more sexually aggressive in order to compete with younger women for men. Cougars often hunt younger men, or cubs, exclusively to fulfill their sexual desires as opposed to searching for a marital partner."
+      },
+      {
+        "term": "Courtship, Courting, Court",
+        "definition": "The period in a relationship preceding marriage. The mating ritual of western culture in which a male wooes a woman."
+      },
+      {
+        "term": "Cowgirl",
+        "definition": "A standard sex position in which the woman rides atop the man who lies flat on his back."
+      },
+      {
+        "term": "Crabs",
+        "definition": "Pubic lice."
+      },
+      {
+        "term": "Crack Hustler",
+        "definition": "A pimp, an actual crack dealer, or one who sells both."
+      },
+      {
+        "term": "Creampie",
+        "definition": "How babies are made, which is probably why it is such a popular fetish. When not specified as an oral or anal creampie, this refers to ejaculating inside a vagina."
+      },
+      {
+        "term": "Creeping",
+        "definition": "Cheating."
+      },
+      {
+        "term": "Croodle",
+        "definition": "To cuddle, fawn, or coo, especially to ease fear or the cold."
+      },
+      {
+        "term": "Crop Dusting",
+        "definition": "Farting while you pass a group of people. Often used as a tactic to get a group to leave an area or table."
+      },
+      {
+        "term": "Cross-Dresser",
+        "definition": "Usually, a heterosexual man who has a fetish for dressing in women's clothes.",
+        "synonyms": ["transvestite"]
+      },
+      {
+        "term": "Cross-Eyed Fetish",
+        "definition": "A fetish for people who are cross-eyed.",
+        "origins": "Rene Descartes was rumored to be attracted to women who were cross-eyed."
+      },
+      {
+        "term": "Crurophilia",
+        "definition": "A leg fetish."
+      },
+      {
+        "term": "Crushing Fetish",
+        "definition": "A fetish for watching small insects or animals being crushed to death."
+      },
+      {
+        "term": "Cubs",
+        "definition": "Young, attractive men who are instructed in the ways of sex by cougars."
+      },
+      {
+        "term": "Cuckold",
+        "definition": "1. A man whose wife or girlfriend has sex with other men. 2. A fetish in which men enjoy watching their female partner having sex with other men, particularly men who are more physically imposing.",
+        "synonyms": ["cornuto"],
+        "origins": "From the cuckoo bird, which changes mates frequently and lays eggs in other birds' nests."
+      },
+      {
+        "term": "Cuddle",
+        "definition": "To hold or embrace.",
+        "synonyms": ["aftermath", "croodle", "snuggle"]
+      },
+      {
+        "term": "Cum, Come",
+        "definition": "Semen."
+      },
+      {
+        "term": "Cum Bubble",
+        "definition": "A bubble of semen that sometimes emerges from the nostrils, mouth, vagina or ass after semen coats these orifices."
+      },
+      {
+        "term": "Cum Bunny",
+        "definition": "A promiscuous woman.",
+        "synonyms": ["slut"]
+      },
+      {
+        "term": "Cum Fart",
+        "definition": "Farting out semen after anal sex."
+      },
+      {
+        "term": "Cum Inflation",
+        "definition": "A version of inflation fetish in which a person fantasizes about pumping so much semen into a sex partner that her body bulges and swells with male ejaculate."
+      },
+      {
+        "term": "Cum Target",
+        "definition": "1. A tattoo on a man or woman that serves no better purpose than a target to aim at while ejaculating. 2. A promiscuous woman or gay man."
+      },
+      {
+        "term": "Cunnilingus",
+        "definition": "Oral sex performed on a vagina."
+      },
+      {
+        "term": "Cunt",
+        "definition": "1. Vagina. 2. One who acts like a vagina."
+      },
+      {
+        "term": "Cunt Licker",
+        "definition": "A lesbian or an effeminate man who is pussy whipped."
+      },
+      {
+        "term": "Cunt Rag",
+        "definition": "1. A Tampon or period pad. 2. A person who is comparable to a used Tampon."
+      },
+      {
+        "term": "Cupping",
+        "definition": "A type of sadomasochistic play derived from a healing practice in ancient Chinese medicine. Typically the dom uses a flame to remove the oxygen from a glass cup. The cup is then quickly placed on the sub's skin. The vacuum sucks the skin into the glass, creating a large, hickey-like mark."
+      },
+      {
+        "term": "Custard Launcher",
+        "definition": "Penis."
+      },
+      {
+        "term": "Cutting Fetish",
+        "definition": "Sexual pleasure is derived from inflicting cuts on oneself or a sex partner.",
+        "related": [
+          "amputation/amputee fetish",
+          "blade play",
+          "blood fetish",
+          "body modification fetish",
+          "goro",
+          "medical fetish",
+          "nollo",
+          "non-con",
+          "pain play",
+          "snuff",
+          "vore"
+        ]
+      },
+      {
+        "term": "Cyber Sex",
+        "definition": "Like phone sex except on the computer, often with a person who in no way matches the cyber-identity he assumes."
+      },
+      {
+        "term": "Cypriphobia",
+        "definition": "A paranoia of prostitutes or contracting STDs."
+      }
     ]
+  }
 }
+
+
+
